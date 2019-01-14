@@ -6,10 +6,13 @@
 3. `countFileNumber.py` 统计某个文件夹下文件数量（自己酌情修改）
 4. `asyndef.py` asyndef
 
-### 力扣网站
+### [力扣网站](https://leetcode-cn.com/)
 1. `twosum` 两数之和
 2. `addTwoNum.py` 两数相加
 3. `palindromeNumber.py` 回文数
+4. `kClosestPointsToOrigin.py` 最接近原点的 K 个点  显示英文描述
+
 
 todo:
-* reverseNum
+* `reverseNum.py`
+* `largestPerimeterTriangle.py` 三角形最大周长
