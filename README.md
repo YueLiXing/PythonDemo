@@ -2,17 +2,30 @@
 
 ### 写着玩的小脚本
 1. `checkDulFilename.py` 一个用于检测某个文件夹下重复文件名的脚本
-2. `getNMaxNum.py` 取N个无序数字中第N大的数字，包括四种方法。小顶堆法、插入法、分治法、全排序法
-3. `countFileNumber.py` 统计某个文件夹下文件数量（自己酌情修改）
-4. `asyndef.py` asyndef
+1. `changePicsMd5.py` 修改图片文件的Md5，针对 png jpg jpeg
+1. `getNMaxNum.py` 取N个无序数字中第N大的数字，包括四种方法。小顶堆法、插入法、分治法、全排序法
+1. `countFileNumber.py` 统计某个文件夹下文件数量（自己酌情修改）
+1. `asyndef.py` asyndef
+1. `checkPyFiles.py` 检查当前目录下py 是否都记录在了 README.md 文件中
 
 ### [力扣网站](https://leetcode-cn.com/)
-1. `twosum` 两数之和
-2. `addTwoNum.py` 两数相加
-3. `palindromeNumber.py` 回文数
-4. `kClosestPointsToOrigin.py` 最接近原点的 K 个点  显示英文描述
+1. `twosum.py` 两数之和
+1. `addTwoNum.py` 两数相加
+1. `palindromeNumber.py` 判断是否是回文数
+1. `kClosestPointsToOrigin.py` 最接近原点的 K 个点  显示英文描述
+1. `largestPerimeterTriangle.py` 三角形最大周长
+1. `subarraySumsDivisibleByK.py`和可被 K 整除的子数组  
+1. `generateRandomPointInACircle.py` 478. 在圆内随机生成点
+1. `randomPointInNonOverlappingRectangles.py` 497. 非重叠矩形中的随机点
+1. `nAryTreePostorderTraversal.py`590. N叉树的后序遍历
+1. `validParentheses.py` 20. 有效的括号
+1. `mergeTwoSortedLists.py` 21. 合并两个有序链表
+1. `uniqueEmailAddresses.py` 929. 独特的电子邮件地址
+1. `detectCapital.py` 520. 检测大写字母
+1. `squaresOfASortedArray.py` 977. 有序数组的平方
+
 
 
 todo:
-* `reverseNum.py`
-* `largestPerimeterTriangle.py` 三角形最大周长
+* `reverseNum.py` 整数反转
+* `3sum.py` 15. 三数之和
