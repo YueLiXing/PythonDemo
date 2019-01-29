@@ -7,10 +7,17 @@
 1. `countFileNumber.py` 统计某个文件夹下文件数量（自己酌情修改）
 1. `asyndef.py` asyndef
 1. `checkPyFiles.py` 检查当前目录下py 是否都记录在了 README.md 文件中
+1. `changeLeeCodeToTitle.py` 用于转换LeeCode 英文标题作为文件名
 
 ### [力扣网站](https://leetcode-cn.com/)
 1. `twosum.py` 两数之和
 1. `addTwoNum.py` 两数相加
+1. `longestSubstringWithoutRepeatingCharacters.py` 3. 无重复字符的最长子串
+1. `medianOfTwoSortedArrays.py` 4. 寻找两个有序数组的中位数
+1. `longestPalindromicSubstring.py` 5. 最长回文子串
+1. `zigzagConversion.py` 6. Z 字形变换
+1. `reverseNum.py` 7. 整数反转
+1. `longestCommonPrefix.py` 14. 最长公共前缀
 1. `palindromeNumber.py` 判断是否是回文数
 1. `kClosestPointsToOrigin.py` 最接近原点的 K 个点  显示英文描述
 1. `largestPerimeterTriangle.py` 三角形最大周长
@@ -23,9 +30,11 @@
 1. `uniqueEmailAddresses.py` 929. 独特的电子邮件地址
 1. `detectCapital.py` 520. 检测大写字母
 1. `squaresOfASortedArray.py` 977. 有序数组的平方
+1. `longestTurbulentSubarray.py` 978. 最长湍流子数组
 
 
 
 todo:
-* `reverseNum.py` 整数反转
+
 * `3sum.py` 15. 三数之和
+* 
