@@ -17,7 +17,18 @@
 1. `longestPalindromicSubstring.py` 5. 最长回文子串
 1. `zigzagConversion.py` 6. Z 字形变换
 1. `reverseNum.py` 7. 整数反转
+1. `stringToIntegerAtoi.py` 8. 字符串转换整数 (atoi)
+1. `containerWithMostWater.py` 11. 盛最多水的容器
+1. `romanToInteger.py` 13. 罗马数字转整数
 1. `longestCommonPrefix.py` 14. 最长公共前缀
+1. `validParentheses.py` 20. 有效的括号
+1. `mergeTwoSortedLists.py` 21. 合并两个有序链表
+1. `mergekSortedLists.py` 23. 合并K个排序链表
+1. `removeDuplicatesFromSortedArray.py` 26. 删除排序数组中的重复项
+1. `removeElement.py` 27. 移除元素
+1. `validSudoku.py` 36. 有效的数独
+1. `removeLinkedListElements.py` 203. 移除链表元素
+1. `deleteNodeInaLinkedList.py` 237. 删除链表中的节点
 1. `palindromeNumber.py` 判断是否是回文数
 1. `kClosestPointsToOrigin.py` 最接近原点的 K 个点  显示英文描述
 1. `largestPerimeterTriangle.py` 三角形最大周长
@@ -25,8 +36,6 @@
 1. `generateRandomPointInACircle.py` 478. 在圆内随机生成点
 1. `randomPointInNonOverlappingRectangles.py` 497. 非重叠矩形中的随机点
 1. `nAryTreePostorderTraversal.py`590. N叉树的后序遍历
-1. `validParentheses.py` 20. 有效的括号
-1. `mergeTwoSortedLists.py` 21. 合并两个有序链表
 1. `uniqueEmailAddresses.py` 929. 独特的电子邮件地址
 1. `detectCapital.py` 520. 检测大写字母
 1. `squaresOfASortedArray.py` 977. 有序数组的平方
@@ -37,4 +46,6 @@
 todo:
 
 * `3sum.py` 15. 三数之和
-* 
+* `trappingRainWater.py` 42. 接雨水
+* `middleOfTheLinkedList.py` 876. 链表的中间结点
+1. `sudokuSolver.py` 37. 解数独
