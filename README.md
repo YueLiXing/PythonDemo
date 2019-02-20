@@ -30,16 +30,33 @@
 1. `removeElement.py` 27. 移除元素
 1. `validSudoku.py` 36. 有效的数独
 1. `firstMissingPositive.py` 41. 缺失的第一个正数
+1. `permutations.py` 46. 全排列 
+1. `permutationsIi.py` 47. 全排列 II
 1. `combinations.py` 77. 组合
+1. `pascalsTriangle.py` 118. 杨辉三角
+1. `pascalsTriangleIi.py` 119. 杨辉三角 II
+1. `validPalindrome.py` 125. 验证回文串
 1. `removeLinkedListElements.py` 203. 移除链表元素
 1. `deleteNodeInaLinkedList.py` 237. 删除链表中的节点
+1. `palindromeLinkedList.py` 234. 回文链表
 1. `missingNumber.py` 268. 缺失数字
 1. `generateRandomPointInACircle.py` 478. 在圆内随机生成点
+1. `constructTheRectangle.py` 492. 构造矩形
+1. `teemoAttacking.py` 495. 提莫攻击
+1. `nextGreaterElementi.py` 496. 下一个更大元素 I
 1. `randomPointInNonOverlappingRectangles.py` 497. 非重叠矩形中的随机点
+1. `nextGreaterElementIi.py` 503. 下一个更大元素 II
 1. `detectCapital.py` 520. 检测大写字母
+1. `reshapeTheMatrix.py` 566. 重塑矩阵
 1. `nAryTreePostorderTraversal.py`590. N叉树的后序遍历
+1. `canPlaceFlowers.py` 605. 种花问题
+1. `findDuplicateFileInSystem.py` 609. 在系统中查找重复文件
+1. `nonDecreasingArray.py` 665. 非递减数列
+1. `validPalindromeIi.py` 680. 验证回文字符串 Ⅱ
 1. `binarySearch.py` 704. 二分查找
+1. `asteroidCollision.py` 735. 行星碰撞
 1. `toeplitzMatrix.py` 766. 托普利茨矩阵
+1. `flippingAnImage.py` 832. 翻转图像
 1. `partitionArrayIntoDisjointIntervals.py` 915. 分割数组
 1. `longPressedName.py` 925. 长按键入
 1. `uniqueEmailAddresses.py` 929. 独特的电子邮件地址
@@ -68,3 +85,4 @@ todo:
 1. `timeBasedKeyValueStore.py` 981. 基于时间的键值存储
 1. `nthMagicalNumber.py` 878. 第 N 个神奇数字
 1. `combinationSum.py` 39. 组合总和
+1. `nextPermutation.py` 31. 下一个排列
