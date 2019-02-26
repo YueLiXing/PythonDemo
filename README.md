@@ -56,7 +56,9 @@
 1. `binarySearch.py` 704. 二分查找
 1. `asteroidCollision.py` 735. 行星碰撞
 1. `toeplitzMatrix.py` 766. 托普利茨矩阵
+1. `goatLatin.py` 824. 山羊拉丁文
 1. `flippingAnImage.py` 832. 翻转图像
+1. `fairCandySwap.py` 888. 公平的糖果交换
 1. `partitionArrayIntoDisjointIntervals.py` 915. 分割数组
 1. `longPressedName.py` 925. 长按键入
 1. `uniqueEmailAddresses.py` 929. 独特的电子邮件地址
@@ -70,6 +72,7 @@
 1. `sumOfEvenNumbersAfterQueries.py` 985. 查询后的偶数和
 1. `intervalListIntersections.py` 986. 区间列表的交集
 1. `addToArrayFormOfInteger.py` 989. 数组形式的整数加法
+1. `brokenCalculator.py` 991. 坏了的计算器
 
 
 todo:
@@ -81,7 +84,6 @@ todo:
 1. `countDifferentPalindromicSubsequences.py` 730. 统计不同回文子字符串
 1. `divideTwoIntegers.py` 29. 两数相除
 1. `satisfiabilityOfEqualityEquations.py` 990. 等式方程的可满足性
-1. `brokenCalculator.py` 991. 坏了的计算器
 1. `timeBasedKeyValueStore.py` 981. 基于时间的键值存储
 1. `nthMagicalNumber.py` 878. 第 N 个神奇数字
 1. `combinationSum.py` 39. 组合总和

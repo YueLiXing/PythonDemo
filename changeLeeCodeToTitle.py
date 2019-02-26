@@ -1,5 +1,5 @@
 
-engTitle = "next-greater-element-ii"
+engTitle = "goat-latin"
 
 tempArr = engTitle.split("-")
 resultArr = []
