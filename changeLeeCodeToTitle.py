@@ -1,5 +1,5 @@
 
-engTitle = "goat-latin"
+engTitle = "max-consecutive-ones"
 
 tempArr = engTitle.split("-")
 resultArr = []

@@ -8,6 +8,7 @@
 1. `asyndef.py` asyndef
 1. `checkPyFiles.py` 检查当前目录下py 是否都记录在了 README.md 文件中
 1. `changeLeeCodeToTitle.py` 用于转换LeeCode 英文标题作为文件名
+1. `orderFiles.py` 排序某个文件夹下文件（自己酌情修改）
 
 ### [力扣网站](https://leetcode-cn.com/)
 1. `twosum.py` 1. 两数之和
@@ -41,6 +42,7 @@
 1. `palindromeLinkedList.py` 234. 回文链表
 1. `missingNumber.py` 268. 缺失数字
 1. `generateRandomPointInACircle.py` 478. 在圆内随机生成点
+1. `maxConsecutiveOnes.py` 485. 最大连续1的个数
 1. `constructTheRectangle.py` 492. 构造矩形
 1. `teemoAttacking.py` 495. 提莫攻击
 1. `nextGreaterElementi.py` 496. 下一个更大元素 I
