@@ -1,5 +1,5 @@
 
-engTitle = "max-consecutive-ones"
+engTitle = "3sum-closest"
 
 tempArr = engTitle.split("-")
 resultArr = []

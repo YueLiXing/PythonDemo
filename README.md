@@ -20,9 +20,12 @@
 1. `reverseNum.py` 7. 整数反转
 1. `stringToIntegerAtoi.py` 8. 字符串转换整数 (atoi)
 1. `palindromeNumber.py` 9. 回文数
+1. `regularExpressionMatching.py` 10. 正则表达式匹配
 1. `containerWithMostWater.py` 11. 盛最多水的容器
+1. `integerToRoman.py` 12. 整数转罗马数字
 1. `romanToInteger.py` 13. 罗马数字转整数
 1. `longestCommonPrefix.py` 14. 最长公共前缀
+1. `3sum.py` 15. 三数之和
 1. `letterCombinationsOfaPhoneNumber.py` 17. 电话号码的字母组合
 1. `validParentheses.py` 20. 有效的括号
 1. `mergeTwoSortedLists.py` 21. 合并两个有序链表
@@ -79,7 +82,6 @@
 
 todo:
 
-1. `3sum.py` 15. 三数之和
 1. `trappingRainWater.py` 42. 接雨水
 1. `middleOfTheLinkedList.py` 876. 链表的中间结点
 1. `sudokuSolver.py` 37. 解数独

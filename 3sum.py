@@ -15,25 +15,34 @@ class Solution(object):
         self.tempDic = {}
         self.list = []
         nums.sort()
+        cacheDict = {}
+        for i in range(len(nums)):
+            val = nums[i]
+            if val in cacheDict:
+                cacheDict[val].append(i)
+            else:
+                cacheDict[val] = [i]
+            # print(cacheDict)
         for index in range(0, len(nums)-2):
             num0 = nums[index]
-            if num0>0:
+            if num0 > 0:
                 break
-            for index2 in range(index+1, len(nums)-1):
-                num1 = nums[index2]
-                num2 = 0-(num0+num1)
-
-                if num2 in nums[index2+1:]:
-                    tempArr = [num0, num1, num2]
-                    target = []
-                    tempArr.sort()
-                    for temp in tempArr:
-                        target.append(str(temp))
-                    key = "".join(target)
-                    if key not in self.tempDic:
-                        self.tempDic[key] = target
-                        self.list.append([num0,num1,num2])
+            if index == 0 or nums[index] > nums[index-1]:
+                for index2 in range(index+1, len(nums)-1):
+                    num1 = nums[index2]
+                    num2 = 0-(num0+num1)
+                    if num2 in cacheDict:
+                        for i in cacheDict[num2]:
+                            if i > index2:
+                                tempArr = [num0, num1, num2]
+                                key = "%d_%d_%d" % (num0, num1, num2)
+                                if key not in self.tempDic:
+                                    self.tempDic[key] = tempArr
+                                    self.list.append(tempArr)
+                                    break
+                    
         return self.list
 
 
-print(Solution().threeSum([-1, 0, 1, 2, -1, -4]))
+# print(Solution().threeSum([-1, 0, 1, 2, -1, -4]))
+print(Solution().threeSum([0, 0, 0, 0,0,0,0,0,0,0,0,0]))
