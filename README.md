@@ -80,10 +80,15 @@
 1. `largestPerimeterTriangle.py` 976. 三角形的最大周长
 1. `squaresOfASortedArray.py` 977. 有序数组的平方
 1. `longestTurbulentSubarray.py` 978. 最长湍流子数组
+1. `timeBasedKeyValueStore.py` 981. 基于时间的键值存储
 1. `sumOfEvenNumbersAfterQueries.py` 985. 查询后的偶数和
 1. `intervalListIntersections.py` 986. 区间列表的交集
 1. `addToArrayFormOfInteger.py` 989. 数组形式的整数加法
 1. `brokenCalculator.py` 991. 坏了的计算器
+1. `findTheTownJudge.py` 997. 找到小镇的法官
+1. `complementOfBase10Integer.py` 1012. 十进制整数的反码
+1. `pairsOfSongsWithTotalDurationsDivisibleBy60.py` 1013. 总持续时间可被 60 整除的歌曲
+1. `capacityToShipPackagesWithindDays.py` 1014. 在 D 天内送达包裹的能力
 
 
 todo:
@@ -94,7 +99,6 @@ todo:
 1. `countDifferentPalindromicSubsequences.py` 730. 统计不同回文子字符串
 1. `divideTwoIntegers.py` 29. 两数相除
 1. `satisfiabilityOfEqualityEquations.py` 990. 等式方程的可满足性
-1. `timeBasedKeyValueStore.py` 981. 基于时间的键值存储
 1. `nthMagicalNumber.py` 878. 第 N 个神奇数字
 1. `combinationSum.py` 39. 组合总和
 1. `nextPermutation.py` 31. 下一个排列
