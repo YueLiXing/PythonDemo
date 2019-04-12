@@ -9,6 +9,7 @@
 1. `checkPyFiles.py` 检查当前目录下py 是否都记录在了 README.md 文件中
 1. `changeLeeCodeToTitle.py` 用于转换LeeCode 英文标题作为文件名
 1. `orderFiles.py` 排序某个文件夹下文件（自己酌情修改）
+1. `checkfileAddXcode.py` 检查文件是否都添加到 Xcode 中
 
 ### [力扣网站](https://leetcode-cn.com/)
 1. `twosum.py` 1. 两数之和
@@ -41,12 +42,15 @@
 1. `permutations.py` 46. 全排列 
 1. `permutationsIi.py` 47. 全排列 II
 1. `combinations.py` 77. 组合
+1. `binaryTreeInorderTraversal.py` 94. 二叉树的中序遍历
 1. `pascalsTriangle.py` 118. 杨辉三角
 1. `pascalsTriangleIi.py` 119. 杨辉三角 II
 1. `validPalindrome.py` 125. 验证回文串
+1. `binaryTreePreorderTraversal.py` 144. 二叉树的前序遍历
 1. `removeLinkedListElements.py` 203. 移除链表元素
-1. `deleteNodeInaLinkedList.py` 237. 删除链表中的节点
+1. `kthSmallestElementInaBst.py` 230. 二叉搜索树中第K小的元素
 1. `palindromeLinkedList.py` 234. 回文链表
+1. `deleteNodeInaLinkedList.py` 237. 删除链表中的节点
 1. `missingNumber.py` 268. 缺失数字
 1. `firstBadVersion.py` 278. 第一个错误的版本
 1. `guessNumberHigherOrLower.py` 374. 猜数字大小
@@ -63,6 +67,7 @@
 1. `canPlaceFlowers.py` 605. 种花问题
 1. `findDuplicateFileInSystem.py` 609. 在系统中查找重复文件
 1. `nonDecreasingArray.py` 665. 非递减数列
+1. `secondMinimumNodeInaBinaryTree.py` 671. 二叉树中第二小的节点
 1. `validPalindromeIi.py` 680. 验证回文字符串 Ⅱ
 1. `binarySearch.py` 704. 二分查找
 1. `asteroidCollision.py` 735. 行星碰撞
@@ -73,6 +78,7 @@
 1. `partitionArrayIntoDisjointIntervals.py` 915. 分割数组
 1. `longPressedName.py` 925. 长按键入
 1. `uniqueEmailAddresses.py` 929. 独特的电子邮件地址
+1. `verifyingAnAlienDictionary.py` 953. 验证外星语词典
 1. `nRepeatedElementInSize2nArray.py` 961. 重复 N 次的元素
 1. `powerfulIntegers.py` 970. 强整数
 1. `kClosestPointsToOrigin.py` 973. 最接近原点的 K 个点
@@ -81,8 +87,10 @@
 1. `squaresOfASortedArray.py` 977. 有序数组的平方
 1. `longestTurbulentSubarray.py` 978. 最长湍流子数组
 1. `timeBasedKeyValueStore.py` 981. 基于时间的键值存储
+1. `stringWithoutAaaOrBbb.py` 984. 不含 AAA 或 BBB 的字符串
 1. `sumOfEvenNumbersAfterQueries.py` 985. 查询后的偶数和
 1. `intervalListIntersections.py` 986. 区间列表的交集
+1. `verticalOrderTraversalOfaBinaryTree.py` 987. 二叉树的垂序遍历
 1. `addToArrayFormOfInteger.py` 989. 数组形式的整数加法
 1. `brokenCalculator.py` 991. 坏了的计算器
 1. `findTheTownJudge.py` 997. 找到小镇的法官
@@ -102,3 +110,4 @@ todo:
 1. `nthMagicalNumber.py` 878. 第 N 个神奇数字
 1. `combinationSum.py` 39. 组合总和
 1. `nextPermutation.py` 31. 下一个排列
+1. `nAryTreePreorderTraversal.py` 589. N叉树的前序遍历

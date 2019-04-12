@@ -27,14 +27,26 @@ def orderFiles(dirPath,t=0):
 if __name__ == "__main__":
     if len(sys.argv) > 1:
         print(sys.argv)
-        dirPath = sys.argv[1]
+        # dirPath = sys.argv[1]
         
+        # t = 0
+        # if len(sys.argv) > 2:
+        #     t = float(sys.argv[2])
+        # if os.path.exists(dirPath):
+        #     # startTime = time.time()
+        #     orderFiles(dirPath,t)
+        #     # print("执行时间 %f" % (time.time()-startTime))
+        # else:
+        #     print("请输入正确的文件夹路径")
+        #     dirPath = sys.argv[1]
+
+        dirPath = "/Users/zhanglingyu/Library/Containers/com.tencent.qq/Data/Library/Caches/Images"
         t = 0
-        if len(sys.argv) > 2:
-            t = float(sys.argv[2])
+        if len(sys.argv) > 1:
+            t = float(sys.argv[1])
         if os.path.exists(dirPath):
             # startTime = time.time()
-            orderFiles(dirPath,t)
+            orderFiles(dirPath, t)
             # print("执行时间 %f" % (time.time()-startTime))
         else:
             print("请输入正确的文件夹路径")
