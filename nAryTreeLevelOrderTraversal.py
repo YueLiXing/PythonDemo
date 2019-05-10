@@ -8,9 +8,14 @@ class Node:
         self.children = children
 
 
+# 没写完
+
 class Solution:
     # 迭代法先序遍历N叉树
-    def preorder(self, root: 'Node') -> [int]:
+    def levelOrder(self, root: 'Node') -> [[int]]:
+    #     self.ret = []
+    #     return self.ret
+    # def preorder(self, root: 'Node') -> [int]:
         ret = []
         cache = []
         curr = root
@@ -21,7 +26,7 @@ class Solution:
                 # flag = False
                 if curr.children != None and len(curr.children) > 0:
                     if len(curr.children) > 1:
-                        for i in range(len(curr.children)-1,0,-1):
+                        for i in range(len(curr.children)-1, 0, -1):
                             cache.append(curr.children[i])
 
                     curr = curr.children[0]
@@ -45,7 +50,7 @@ l = Node(3, [Node(5, None), Node(6, None)])
 root = Node(1, [l, Node(2, None), Node(4, None)])
 
 
-print(Solution().preorder(root))
+print(Solution().levelOrder(root))
 
 
 # test = [1,2,3,4,5]

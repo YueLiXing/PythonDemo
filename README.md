@@ -47,13 +47,19 @@
 1. `pascalsTriangleIi.py` 119. 杨辉三角 II
 1. `validPalindrome.py` 125. 验证回文串
 1. `binaryTreePreorderTraversal.py` 144. 二叉树的前序遍历
+1. `lruCache.py` 146. LRU缓存机制
 1. `removeLinkedListElements.py` 203. 移除链表元素
+1. `containsDuplicate.py` 217. 存在重复元素
+1. `containsDuplicateIi.py` 219. 存在重复元素 II
+1. `containsDuplicateIii.py` 220. 存在重复元素 III
 1. `kthSmallestElementInaBst.py` 230. 二叉搜索树中第K小的元素
+1. `powerOfTwo.py` 231. 2的幂
 1. `palindromeLinkedList.py` 234. 回文链表
 1. `deleteNodeInaLinkedList.py` 237. 删除链表中的节点
 1. `missingNumber.py` 268. 缺失数字
 1. `firstBadVersion.py` 278. 第一个错误的版本
 1. `guessNumberHigherOrLower.py` 374. 猜数字大小
+1. `lfuCache.py` 460. LFU缓存
 1. `generateRandomPointInACircle.py` 478. 在圆内随机生成点
 1. `maxConsecutiveOnes.py` 485. 最大连续1的个数
 1. `constructTheRectangle.py` 492. 构造矩形
@@ -63,6 +69,7 @@
 1. `nextGreaterElementIi.py` 503. 下一个更大元素 II
 1. `detectCapital.py` 520. 检测大写字母
 1. `reshapeTheMatrix.py` 566. 重塑矩阵
+1. `nAryTreePreorderTraversal.py` 589. N叉树的前序遍历
 1. `nAryTreePostorderTraversal.py`590. N叉树的后序遍历
 1. `canPlaceFlowers.py` 605. 种花问题
 1. `findDuplicateFileInSystem.py` 609. 在系统中查找重复文件
@@ -110,4 +117,4 @@ todo:
 1. `nthMagicalNumber.py` 878. 第 N 个神奇数字
 1. `combinationSum.py` 39. 组合总和
 1. `nextPermutation.py` 31. 下一个排列
-1. `nAryTreePreorderTraversal.py` 589. N叉树的前序遍历
+1. `nAryTreeLevelOrderTraversal.py` 429. N叉树的层序遍历
