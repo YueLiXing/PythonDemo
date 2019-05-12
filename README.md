@@ -43,6 +43,8 @@
 1. `permutationsIi.py` 47. 全排列 II
 1. `combinations.py` 77. 组合
 1. `binaryTreeInorderTraversal.py` 94. 二叉树的中序遍历
+1. `binaryTreeLevelOrderTraversal.py` 102. 二叉树的层次遍历
+1. `binaryTreeLevelOrderTraversalIi.py` 107. 二叉树的层次遍历 II
 1. `pascalsTriangle.py` 118. 杨辉三角
 1. `pascalsTriangleIi.py` 119. 杨辉三角 II
 1. `validPalindrome.py` 125. 验证回文串
@@ -59,6 +61,7 @@
 1. `missingNumber.py` 268. 缺失数字
 1. `firstBadVersion.py` 278. 第一个错误的版本
 1. `guessNumberHigherOrLower.py` 374. 猜数字大小
+1. `nAryTreeLevelOrderTraversal.py` 429. N叉树的层序遍历
 1. `lfuCache.py` 460. LFU缓存
 1. `generateRandomPointInACircle.py` 478. 在圆内随机生成点
 1. `maxConsecutiveOnes.py` 485. 最大连续1的个数
@@ -73,6 +76,7 @@
 1. `nAryTreePostorderTraversal.py`590. N叉树的后序遍历
 1. `canPlaceFlowers.py` 605. 种花问题
 1. `findDuplicateFileInSystem.py` 609. 在系统中查找重复文件
+1. `averageOfLevelsInBinaryTree.py` 637. 二叉树的层平均值
 1. `nonDecreasingArray.py` 665. 非递减数列
 1. `secondMinimumNodeInaBinaryTree.py` 671. 二叉树中第二小的节点
 1. `validPalindromeIi.py` 680. 验证回文字符串 Ⅱ
@@ -117,4 +121,3 @@ todo:
 1. `nthMagicalNumber.py` 878. 第 N 个神奇数字
 1. `combinationSum.py` 39. 组合总和
 1. `nextPermutation.py` 31. 下一个排列
-1. `nAryTreeLevelOrderTraversal.py` 429. N叉树的层序遍历
