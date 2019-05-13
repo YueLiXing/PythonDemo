@@ -8,7 +8,6 @@ class Node:
         self.children = children
 
 class Solution:
-    # 迭代法先序遍历N叉树
     def levelOrder(self, root: 'Node') -> [[int]]:
         ret = []
         if root == None:

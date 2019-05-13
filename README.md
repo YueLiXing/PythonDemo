@@ -42,14 +42,17 @@
 1. `permutations.py` 46. 全排列 
 1. `permutationsIi.py` 47. 全排列 II
 1. `combinations.py` 77. 组合
+1. `mergeSortedArray.py` 88. 合并两个有序数组
 1. `binaryTreeInorderTraversal.py` 94. 二叉树的中序遍历
 1. `binaryTreeLevelOrderTraversal.py` 102. 二叉树的层次遍历
 1. `binaryTreeLevelOrderTraversalIi.py` 107. 二叉树的层次遍历 II
 1. `pascalsTriangle.py` 118. 杨辉三角
 1. `pascalsTriangleIi.py` 119. 杨辉三角 II
 1. `validPalindrome.py` 125. 验证回文串
+1. `linkedListCycle.py` 141. 环形链表
 1. `binaryTreePreorderTraversal.py` 144. 二叉树的前序遍历
 1. `lruCache.py` 146. LRU缓存机制
+1. `happyNumber.py` 202. 快乐数
 1. `removeLinkedListElements.py` 203. 移除链表元素
 1. `containsDuplicate.py` 217. 存在重复元素
 1. `containsDuplicateIi.py` 219. 存在重复元素 II
@@ -58,6 +61,7 @@
 1. `powerOfTwo.py` 231. 2的幂
 1. `palindromeLinkedList.py` 234. 回文链表
 1. `deleteNodeInaLinkedList.py` 237. 删除链表中的节点
+1. `addDigits.py` 258. 各位相加
 1. `missingNumber.py` 268. 缺失数字
 1. `firstBadVersion.py` 278. 第一个错误的版本
 1. `guessNumberHigherOrLower.py` 374. 猜数字大小
