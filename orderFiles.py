@@ -2,11 +2,12 @@
 
 import os
 import sys
+import time
 
 
 ret = []
 
-def orderFiles(dirPath,t=0):
+def orderFiles(dirPath,startTime, endTime):
     for fileName in os.listdir(dirPath):
         filePath = os.path.join(dirPath, fileName)
         
@@ -19,7 +20,7 @@ def orderFiles(dirPath,t=0):
     ret.sort(key=lambda obj: obj["time"])
     # print(ret)
     for temp in ret:
-        if temp["time"] > t:
+        if endTime >= temp["time"] >= startTime:
             print("open "+os.path.join(dirPath,temp["file"]))
             pass
 
@@ -28,27 +29,17 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         print(sys.argv)
         # dirPath = sys.argv[1]
-        
-        # t = 0
-        # if len(sys.argv) > 2:
-        #     t = float(sys.argv[2])
-        # if os.path.exists(dirPath):
-        #     # startTime = time.time()
-        #     orderFiles(dirPath,t)
-        #     # print("执行时间 %f" % (time.time()-startTime))
-        # else:
-        #     print("请输入正确的文件夹路径")
-        #     dirPath = sys.argv[1]
 
         dirPath = "/Users/zhanglingyu/Library/Containers/com.tencent.qq/Data/Library/Caches/Images"
-        t = 0
-        if len(sys.argv) > 1:
-            t = float(sys.argv[1])
+        startTime = 0
+        
+        startTime = float(sys.argv[1])
+        endTime = time.time()
+        if len(sys.argv) > 2:
+            endTime = float(sys.argv[2])
         if os.path.exists(dirPath):
-            # startTime = time.time()
-            orderFiles(dirPath, t)
+            orderFiles(dirPath, startTime, endTime)
             # print("执行时间 %f" % (time.time()-startTime))
-        else:
-            print("请输入正确的文件夹路径")
+        
     else:
-        print("请输入需要检查的文件夹路径")
+        print("请输入时间参数")
