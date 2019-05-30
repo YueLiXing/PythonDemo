@@ -39,8 +39,10 @@
 1. `searchInsertPosition.py` 35. 搜索插入位置
 1. `validSudoku.py` 36. 有效的数独
 1. `firstMissingPositive.py` 41. 缺失的第一个正数
+1. `multiplyStrings.py` 43. 字符串相乘
 1. `permutations.py` 46. 全排列 
 1. `permutationsIi.py` 47. 全排列 II
+1. `plusOne.py` 66. 加一
 1. `combinations.py` 77. 组合
 1. `mergeSortedArray.py` 88. 合并两个有序数组
 1. `binaryTreeInorderTraversal.py` 94. 二叉树的中序遍历
@@ -49,6 +51,7 @@
 1. `pascalsTriangle.py` 118. 杨辉三角
 1. `pascalsTriangleIi.py` 119. 杨辉三角 II
 1. `validPalindrome.py` 125. 验证回文串
+1. `longestConsecutiveSequence.py` 128. 最长连续序列
 1. `linkedListCycle.py` 141. 环形链表
 1. `binaryTreePreorderTraversal.py` 144. 二叉树的前序遍历
 1. `lruCache.py` 146. LRU缓存机制
@@ -65,6 +68,8 @@
 1. `missingNumber.py` 268. 缺失数字
 1. `firstBadVersion.py` 278. 第一个错误的版本
 1. `guessNumberHigherOrLower.py` 374. 猜数字大小
+1. `firstUniqueCharacterInaString.py` 387. 字符串中的第一个唯一字符
+1. `addStrings.py` 415. 字符串相加
 1. `nAryTreeLevelOrderTraversal.py` 429. N叉树的层序遍历
 1. `lfuCache.py` 460. LFU缓存
 1. `generateRandomPointInACircle.py` 478. 在圆内随机生成点
@@ -76,6 +81,7 @@
 1. `nextGreaterElementIi.py` 503. 下一个更大元素 II
 1. `detectCapital.py` 520. 检测大写字母
 1. `reshapeTheMatrix.py` 566. 重塑矩阵
+1. `permutationInString.py` 567. 字符串的排列
 1. `nAryTreePreorderTraversal.py` 589. N叉树的前序遍历
 1. `nAryTreePostorderTraversal.py`590. N叉树的后序遍历
 1. `canPlaceFlowers.py` 605. 种花问题
@@ -85,6 +91,7 @@
 1. `secondMinimumNodeInaBinaryTree.py` 671. 二叉树中第二小的节点
 1. `validPalindromeIi.py` 680. 验证回文字符串 Ⅱ
 1. `binarySearch.py` 704. 二分查找
+1. `toLowerCase.py` 709. 转换成小写字母
 1. `asteroidCollision.py` 735. 行星碰撞
 1. `toeplitzMatrix.py` 766. 托普利茨矩阵
 1. `goatLatin.py` 824. 山羊拉丁文
