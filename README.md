@@ -43,6 +43,7 @@
 1. `permutations.py` 46. 全排列 
 1. `permutationsIi.py` 47. 全排列 II
 1. `plusOne.py` 66. 加一
+1. `addBinary.py` 67. 二进制求和
 1. `combinations.py` 77. 组合
 1. `mergeSortedArray.py` 88. 合并两个有序数组
 1. `binaryTreeInorderTraversal.py` 94. 二叉树的中序遍历
