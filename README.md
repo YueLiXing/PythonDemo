@@ -56,6 +56,7 @@
 1. `linkedListCycle.py` 141. 环形链表
 1. `binaryTreePreorderTraversal.py` 144. 二叉树的前序遍历
 1. `lruCache.py` 146. LRU缓存机制
+1. `duplicateEmails.txt` 182. 查找重复的电子邮箱
 1. `happyNumber.py` 202. 快乐数
 1. `removeLinkedListElements.py` 203. 移除链表元素
 1. `containsDuplicate.py` 217. 存在重复元素
@@ -85,8 +86,10 @@
 1. `permutationInString.py` 567. 字符串的排列
 1. `nAryTreePreorderTraversal.py` 589. N叉树的前序遍历
 1. `nAryTreePostorderTraversal.py`590. N叉树的后序遍历
+1. `bigCountries.txt` 595. 大的国家
 1. `canPlaceFlowers.py` 605. 种花问题
 1. `findDuplicateFileInSystem.py` 609. 在系统中查找重复文件
+1. `swapSalary.txt` 627. 交换工资
 1. `averageOfLevelsInBinaryTree.py` 637. 二叉树的层平均值
 1. `nonDecreasingArray.py` 665. 非递减数列
 1. `secondMinimumNodeInaBinaryTree.py` 671. 二叉树中第二小的节点
@@ -117,9 +120,9 @@
 1. `addToArrayFormOfInteger.py` 989. 数组形式的整数加法
 1. `brokenCalculator.py` 991. 坏了的计算器
 1. `findTheTownJudge.py` 997. 找到小镇的法官
-1. `complementOfBase10Integer.py` 1012. 十进制整数的反码
-1. `pairsOfSongsWithTotalDurationsDivisibleBy60.py` 1013. 总持续时间可被 60 整除的歌曲
-1. `capacityToShipPackagesWithindDays.py` 1014. 在 D 天内送达包裹的能力
+1. `complementOfBase10Integer.py` 1009. 十进制整数的反码
+1. `pairsOfSongsWithTotalDurationsDivisibleBy60.py` 1010. 总持续时间可被 60 整除的歌曲
+1. `capacityToShipPackagesWithindDays.py` 1011. 在 D 天内送达包裹的能力
 
 
 todo:
