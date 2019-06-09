@@ -29,12 +29,14 @@
 1. `3sum.py` 15. 三数之和
 1. `3sumClosest.py` 16. 最接近的三数之和
 1. `letterCombinationsOfaPhoneNumber.py` 17. 电话号码的字母组合
+1. `removeNthNodeFromEndOfList.py` 19. 删除链表的倒数第N个节点
 1. `validParentheses.py` 20. 有效的括号
 1. `mergeTwoSortedLists.py` 21. 合并两个有序链表
 1. `mergekSortedLists.py` 23. 合并K个排序链表
 1. `removeDuplicatesFromSortedArray.py` 26. 删除排序数组中的重复项
 1. `removeElement.py` 27. 移除元素
 1. `implementStrstr.py` 28. 实现strStr()
+1. `divideTwoIntegers.py` 29. 两数相除
 1. `findFirstAndLastPositionOfElementInSortedArray.py` 34. 在排序数组中查找元素的第一个和最后一个位置
 1. `searchInsertPosition.py` 35. 搜索插入位置
 1. `validSudoku.py` 36. 有效的数独
@@ -59,6 +61,7 @@
 1. `duplicateEmails.txt` 182. 查找重复的电子邮箱
 1. `happyNumber.py` 202. 快乐数
 1. `removeLinkedListElements.py` 203. 移除链表元素
+1. `reverseLinkedList.py` 206. 反转链表
 1. `containsDuplicate.py` 217. 存在重复元素
 1. `containsDuplicateIi.py` 219. 存在重复元素 II
 1. `containsDuplicateIii.py` 220. 存在重复元素 III
@@ -131,8 +134,8 @@ todo:
 1. `middleOfTheLinkedList.py` 876. 链表的中间结点
 1. `sudokuSolver.py` 37. 解数独
 1. `countDifferentPalindromicSubsequences.py` 730. 统计不同回文子字符串
-1. `divideTwoIntegers.py` 29. 两数相除
 1. `satisfiabilityOfEqualityEquations.py` 990. 等式方程的可满足性
 1. `nthMagicalNumber.py` 878. 第 N 个神奇数字
 1. `combinationSum.py` 39. 组合总和
 1. `nextPermutation.py` 31. 下一个排列
+1. `reverseLinkedListIi.py` 92. 反转链表 II
