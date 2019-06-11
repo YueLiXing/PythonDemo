@@ -1,4 +1,11 @@
 class Solution:
+    class Point:
+        def __init__(self, x, y):
+            self.x = x
+            self.y = y
+
+        def __str__(self):
+            return "Point(x:%d,y:%d)" % (self.x, self.y)
     def spiralOrder(self, matrix: [[int]]) -> [int]:
         n = len(matrix)
         if n == 0:
@@ -6,13 +13,6 @@ class Solution:
         m = len(matrix[0])
         ret = []
         
-        class Point:
-            def __init__(self, x,y):
-                self.x = x
-                self.y = y
-
-            def __str__(self):
-                return "Point(x:%d,y:%d)" % (self.x,self.y)
 
 
         currentPoint = Point(0,0)
@@ -76,3 +76,18 @@ l = [
     [9, 10, 11, 12]
 ]
 print(Solution().spiralOrder(l))
+
+# 最近提交结果：
+# 通过
+# 显示详情
+# 执行用时:
+# 40 ms
+# , 在所有Python3提交中击败了
+# 98.73%
+# 的用户
+# 内存消耗:
+# 13 MB
+# , 在所有Python3提交中击败了
+# 94.69%
+# 的用户
+# 炫耀一下:
