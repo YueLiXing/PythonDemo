@@ -13,8 +13,6 @@ class Solution:
         m = len(matrix[0])
         ret = []
         
-
-
         currentPoint = Point(0,0)
         direction = Point(1,0)
         lt = Point(0,0)
