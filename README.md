@@ -44,6 +44,7 @@
 1. `multiplyStrings.py` 43. 字符串相乘
 1. `permutations.py` 46. 全排列 
 1. `permutationsIi.py` 47. 全排列 II
+1. `spiralMatrix.py` 54. 螺旋矩阵
 1. `plusOne.py` 66. 加一
 1. `addBinary.py` 67. 二进制求和
 1. `combinations.py` 77. 组合
