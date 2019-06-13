@@ -30,46 +30,40 @@ class Solution:
             if flag or charIndex > minLength:
                 break
         return reult
-        # 尝试分治法来着，失败了。。。
-        # if len(strs) > 2:
-        #     mid = len(strs)//2
-        #     strs[:mid]
-        #     strs[mid:]
-        #     self.longestCommonPrefix
-        # else:
-        #     if len(strs) == 1:
-        #         return strs.first
-        #     else:
-        #         result = ""
-        #         str0 = strs[0]
-        #         str1 = strs[1]
-        #         for index in range(min(len(str0), len(str1))-1):
-        #             if str0[index:index+1] == str1[index:index+1]:
-        #                 result += str0[index:index+1]
-        #             else:
-        #                 break
-        #         return result
-    # def getCommonPrefix(self, strs0, strs1):
-    #     if len(strs0) == 1 and len(strs1) == 1:
-    #         result = ""
-    #         str0 = strs0[0]
-    #         str1 = strs1[0]
-    #         for index in range(min(len(str0), len(str1))-1):
-    #             if str0[index:index+1] == str1[index:index+1]:
-    #                 result += str0[index:index+1]
-    #             else:
-    #                 break
-    #         return result
+
+    # 分治法
+    # def longestCommonPrefix(self, strs):
+    #     l = len(strs)
+    #     # print(strs, str(l))
+    #     if l > 2:
+    #         return self.getCommonPrefix(self.getCommonPrefix(strs[0], strs[1]),self.longestCommonPrefix(strs[2:]))
     #     else:
-    #         if len(strs0) > 1:
-    #             mid = len(strs0)//2
-    #             strs0[:mid]
-    #             strs0[mid:]
-    #             return self.getCommonPrefix()
+    #         if l == 1:
+    #             return strs[0]
+    #         elif l == 2:
+    #             return self.getCommonPrefix(strs[0], strs[1])
+    #         else:
+    #             return ""
+
+    # def getCommonPrefix(self, strs0, strs1):
+    #     ret = ""
+    #     charIndex = 0
+    #     minLen = min(len(strs0), len(strs1))
+    #     while charIndex < minLen:
+    #         if strs0[charIndex] == strs1[charIndex]:
+    #             ret += strs0[charIndex]
+    #             charIndex += 1
+    #         else:
+    #             break
+    #     # print(strs0, strs1, ret)
+    #     return ret
 
 test = Solution()
 # print([0,1,2,3,4,5,6][:3])
 # print([0,1,2,3,4,5,6][3:])
 # print("123"[2:3])
-print(test.longestCommonPrefix(["flower", "flow", "flight"]))
+print(test.longestCommonPrefix(
+    ["flower0", "flow1", "flower2", "flow3", "flower4", "flow5", "flight6", "flight7"]))
 
+
+# 同步索引遍历字符串，确实要比分治法获取公用字符串前缀要快一些，但是内存消耗变大了
