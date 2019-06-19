@@ -1,10 +1,10 @@
 
-engTitle = "binary-tree-right-side-view"
+engTitle = "the-skyline-problem"
 
 tempArr = engTitle.split("-")
 resultArr = []
 for temp in tempArr:
-    if len(temp) > 1 and len(resultArr):
+    if len(temp) >= 1 and len(resultArr):
         temp = temp.capitalize()
     resultArr.append(temp)
 

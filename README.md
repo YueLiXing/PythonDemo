@@ -10,6 +10,7 @@
 1. `changeLeeCodeToTitle.py` 用于转换LeeCode 英文标题作为文件名
 1. `orderFiles.py` 排序某个文件夹下文件（自己酌情修改）
 1. `checkfileAddXcode.py` 检查文件是否都添加到 Xcode 中
+1. `hexConvert.py` 进制转换
 
 ### [力扣网站](https://leetcode-cn.com/)
 1. `twosum.py` 1. 两数之和
@@ -45,6 +46,9 @@
 1. `permutations.py` 46. 全排列 
 1. `permutationsIi.py` 47. 全排列 II
 1. `rotateImage.py` 48. 旋转图像
+1. `powxN.py` 50. Pow(x, n)
+1. `nQueens.py` 51. N皇后
+1. `nQueensIi.py` 52. N皇后 II
 1. `spiralMatrix.py` 54. 螺旋矩阵
 1. `plusOne.py` 66. 加一
 1. `addBinary.py` 67. 二进制求和
@@ -54,7 +58,10 @@
 1. `binaryTreeInorderTraversal.py` 94. 二叉树的中序遍历
 1. `sameTree.py` 100. 相同的树
 1. `binaryTreeLevelOrderTraversal.py` 102. 二叉树的层次遍历
+1. `binaryTreeZigzagLevelOrderTraversal.py` 103. 二叉树的锯齿形层次遍历
 1. `binaryTreeLevelOrderTraversalIi.py` 107. 二叉树的层次遍历 II
+1. `populatingNextRightPointersInEachNode.py` 116. 填充每个节点的下一个右侧节点指针
+1. `populatingNextRightPointersInEachNodeIi.py` 117. 填充每个节点的下一个右侧节点指针 II
 1. `pascalsTriangle.py` 118. 杨辉三角
 1. `pascalsTriangleIi.py` 119. 杨辉三角 II
 1. `validPalindrome.py` 125. 验证回文串
@@ -146,3 +153,5 @@ todo:
 1. `combinationSum.py` 39. 组合总和
 1. `nextPermutation.py` 31. 下一个排列
 1. `reverseLinkedListIi.py` 92. 反转链表 II
+1. `binaryTreePostorderTraversal.py` 145. 二叉树的后序遍历
+1. `theSkylineProblem.py` 218. 天际线问题
