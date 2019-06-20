@@ -1,5 +1,5 @@
 
-engTitle = "the-skyline-problem"
+engTitle = "swap-nodes-in-pairs"
 
 tempArr = engTitle.split("-")
 resultArr = []
