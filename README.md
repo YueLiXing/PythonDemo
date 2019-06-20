@@ -41,6 +41,7 @@
 1. `findFirstAndLastPositionOfElementInSortedArray.py` 34. 在排序数组中查找元素的第一个和最后一个位置
 1. `searchInsertPosition.py` 35. 搜索插入位置
 1. `validSudoku.py` 36. 有效的数独
+1. `sudokuSolver.py` 37. 解数独
 1. `firstMissingPositive.py` 41. 缺失的第一个正数
 1. `multiplyStrings.py` 43. 字符串相乘
 1. `permutations.py` 46. 全排列 
@@ -146,7 +147,6 @@ todo:
 
 1. `trappingRainWater.py` 42. 接雨水
 1. `middleOfTheLinkedList.py` 876. 链表的中间结点
-1. `sudokuSolver.py` 37. 解数独
 1. `countDifferentPalindromicSubsequences.py` 730. 统计不同回文子字符串
 1. `satisfiabilityOfEqualityEquations.py` 990. 等式方程的可满足性
 1. `nthMagicalNumber.py` 878. 第 N 个神奇数字
