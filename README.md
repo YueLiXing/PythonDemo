@@ -4,6 +4,7 @@
 1. `checkDulFilename.py` 一个用于检测某个文件夹下重复文件名的脚本
 1. `changePicsMd5.py` 修改图片文件的Md5，针对 png jpg jpeg
 1. `getNMaxNum.py` 取N个无序数字中第N大的数字，包括四种方法。小顶堆法、插入法、分治法、全排序法
+1. `handleImage.py` 一些图片的简单处理
 1. `countFileNumber.py` 统计某个文件夹下文件数量（自己酌情修改）
 1. `asyndef.py` asyndef
 1. `checkPyFiles.py` 检查当前目录下py 是否都记录在了 README.md 文件中
@@ -39,11 +40,13 @@
 1. `removeElement.py` 27. 移除元素
 1. `implementStrstr.py` 28. 实现strStr()
 1. `divideTwoIntegers.py` 29. 两数相除
+1. `nextPermutation.py` 31. 下一个排列
 1. `findFirstAndLastPositionOfElementInSortedArray.py` 34. 在排序数组中查找元素的第一个和最后一个位置
 1. `searchInsertPosition.py` 35. 搜索插入位置
 1. `validSudoku.py` 36. 有效的数独
 1. `sudokuSolver.py` 37. 解数独
 1. `firstMissingPositive.py` 41. 缺失的第一个正数
+1. `trappingRainWater.py` 42. 接雨水
 1. `multiplyStrings.py` 43. 字符串相乘
 1. `permutations.py` 46. 全排列 
 1. `permutationsIi.py` 47. 全排列 II
@@ -68,6 +71,7 @@
 1. `pascalsTriangleIi.py` 119. 杨辉三角 II
 1. `validPalindrome.py` 125. 验证回文串
 1. `longestConsecutiveSequence.py` 128. 最长连续序列
+1. `singleNumber.py` 136. 只出现一次的数字
 1. `linkedListCycle.py` 141. 环形链表
 1. `binaryTreePreorderTraversal.py` 144. 二叉树的前序遍历
 1. `lruCache.py` 146. LRU缓存机制
@@ -88,6 +92,7 @@
 1. `addDigits.py` 258. 各位相加
 1. `missingNumber.py` 268. 缺失数字
 1. `firstBadVersion.py` 278. 第一个错误的版本
+1. `maximumProductOfWordLengths.py` 318. 最大单词长度乘积
 1. `guessNumberHigherOrLower.py` 374. 猜数字大小
 1. `ransomNote.py` 383. 赎金信
 1. `firstUniqueCharacterInaString.py` 387. 字符串中的第一个唯一字符
@@ -126,6 +131,7 @@
 1. `uniqueEmailAddresses.py` 929. 独特的电子邮件地址
 1. `verifyingAnAlienDictionary.py` 953. 验证外星语词典
 1. `nRepeatedElementInSize2nArray.py` 961. 重复 N 次的元素
+1. `vowelSpellchecker.py` 966. 元音拼写检查器
 1. `powerfulIntegers.py` 970. 强整数
 1. `kClosestPointsToOrigin.py` 973. 最接近原点的 K 个点
 1. `subarraySumsDivisibleByK.py` 974. 和可被 K 整除的子数组
@@ -143,17 +149,18 @@
 1. `complementOfBase10Integer.py` 1009. 十进制整数的反码
 1. `pairsOfSongsWithTotalDurationsDivisibleBy60.py` 1010. 总持续时间可被 60 整除的歌曲
 1. `capacityToShipPackagesWithindDays.py` 1011. 在 D 天内送达包裹的能力
+1. `removeAllAdjacentDuplicatesInString.py` 1047. 删除字符串中的所有相邻重复项
 
 
 todo:
 
-1. `trappingRainWater.py` 42. 接雨水
 1. `middleOfTheLinkedList.py` 876. 链表的中间结点
 1. `countDifferentPalindromicSubsequences.py` 730. 统计不同回文子字符串
 1. `satisfiabilityOfEqualityEquations.py` 990. 等式方程的可满足性
 1. `nthMagicalNumber.py` 878. 第 N 个神奇数字
 1. `combinationSum.py` 39. 组合总和
-1. `nextPermutation.py` 31. 下一个排列
 1. `reverseLinkedListIi.py` 92. 反转链表 II
 1. `binaryTreePostorderTraversal.py` 145. 二叉树的后序遍历
 1. `theSkylineProblem.py` 218. 天际线问题
+1. `corporateFlightBookings.py` 1109. 航班预订统计
+1. `trappingRainWaterIi.py` 407. 接雨水 II

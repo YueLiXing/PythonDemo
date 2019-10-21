@@ -1,5 +1,5 @@
 
-engTitle = "swap-nodes-in-pairs"
+engTitle = "maximum-product-of-word-lengths"
 
 tempArr = engTitle.split("-")
 resultArr = []

@@ -26,20 +26,15 @@ def orderFiles(dirPath,startTime, endTime):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        print(sys.argv)
-        # dirPath = sys.argv[1]
+    # dirPath = sys.argv[1]
 
-        dirPath = "/Users/zhanglingyu/Library/Containers/com.tencent.qq/Data/Library/Caches/Images"
-        startTime = 0
-        
-        startTime = float(sys.argv[1])
-        endTime = time.time()
-        if len(sys.argv) > 2:
-            endTime = float(sys.argv[2])
-        if os.path.exists(dirPath):
-            orderFiles(dirPath, startTime, endTime)
-            # print("执行时间 %f" % (time.time()-startTime))
-        
-    else:
-        print("请输入时间参数")
+    dirPath = "/Users/zhanglingyu/Library/Containers/com.tencent.qq/Data/Library/Caches/Images"
+    startTime = 0
+    
+    startTime = float(input("请输入时间参数\n"))
+    endTime = time.time()
+    if len(sys.argv) > 2:
+        endTime = float(sys.argv[2])
+    if os.path.exists(dirPath):
+        orderFiles(dirPath, startTime, endTime)
+        # print("执行时间 %f" % (time.time()-startTime))

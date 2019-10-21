@@ -1,27 +1,39 @@
 class Solution(object):
     def trap(self, height):
+        if height is None or len(height) < 3:
+            return 0
         """
         :type height: List[int]
         :rtype: int
         """
+        maxHeightIndex = 0
+        maxHeight = 0
+        for index in range(len(height)):
+            temp = height[index]
+            if temp > maxHeight:
+                maxHeight = temp
+                maxHeightIndex = index
+
         sumRet = 0
         leftIndex = 0
+        while leftIndex < maxHeightIndex:
+            for j in range(leftIndex+1,maxHeightIndex+1):
+                if height[leftIndex] - height[j] > 0:
+                    sumRet += height[leftIndex]-height[j]
+                else:
+                    leftIndex = j
+                    break
         rightIndex = len(height)-1
-        while leftIndex < rightIndex:
-            if index <= leftIndex:
-                index += 1
-                continue
-            if height[index] >= height[leftIndex]:
-                top = min(height[index], height[leftIndex])
-                ret = 0
-                for temp in range(leftIndex,index):
-                    print("- ",top-height[temp])
-                    ret += top-height[temp]
-                leftIndex = index
-                # print(ret)
-                sumRet += ret
-            index += 1
+        while rightIndex > maxHeightIndex:
+            for j in range(rightIndex-1,maxHeightIndex-1,-1):
+                if height[rightIndex] - height[j] > 0:
+                    sumRet += height[rightIndex]-height[j]
+                else:
+                    rightIndex = j
+                    break
         return sumRet
         # print(sumRet)
 
-Solution().trap([0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1])
+
+r = Solution().trap([0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1])
+print(r)

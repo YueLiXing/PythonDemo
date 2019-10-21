@@ -8,26 +8,29 @@ class Solution:
         :type nums: List[int]
         :rtype: void Do not return anything, modify nums in-place instead.
         """
-        min2Val = nums[-1]
-        min2Index = len(nums)-1
-        # for i in range(len(nums)):
-        #     if nums[i] < min2Val:
-        #         min2Val = nums[i]
-        #         min2Index = i
-        flag = True
-        for i in range(len(nums)-2,-1,-1):
-            # print(nums[i])
-            if nums[i] < min2Val:
-                self.swap(i,min2Index,nums)
-                subArr = nums[i+1:]
-                subArr.sort()
-                nums[i+1:] = subArr
-                return 
-            if nums[i] < min2Val or (flag == True and nums[i] > min2Val):
-                flag = False
-                min2Val = nums[i]
-                min2Index = i
-        nums.sort()
+        i = len(nums)-2
+        while i >= 0 and nums[i+1] <= nums[i]:
+            i -= 1
+
+        if i >= 0:
+            j = len(nums)-1
+            while j >= 0 and nums[j] <= nums[i]:
+                j -= 1
+            self.swap(i,j,nums)
+        # print('i:' ,i);
+        # print(nums)
+        # else:
+        self.reverse(nums,i+1)
+
+    def reverse(self, nums, start):
+        i = start
+        j = len(nums)-1
+        while i < j:
+            self.swap(i,j,nums)
+            i += 1
+            j -= 1
+
+
 
             
 temp = [1, 3, 2] # [2, 1, 3]
