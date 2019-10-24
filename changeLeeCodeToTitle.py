@@ -1,5 +1,5 @@
 
-engTitle = "maximum-product-of-word-lengths"
+engTitle = "design-twitter"
 
 tempArr = engTitle.split("-")
 resultArr = []
