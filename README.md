@@ -55,6 +55,10 @@
 1. `nQueens.py` 51. N皇后
 1. `nQueensIi.py` 52. N皇后 II
 1. `spiralMatrix.py` 54. 螺旋矩阵
+1. `mergeIntervals.py` 56. 合并区间 
+1. `insertInterval.py` 57. 插入区间
+1. `uniquePaths.py` 62. 不同路径
+1. `uniquePathsIi.py` 63. 不同路径 II
 1. `plusOne.py` 66. 加一
 1. `addBinary.py` 67. 二进制求和
 1. `searcha2dMatrix.py` 74. 搜索二维矩阵
@@ -86,6 +90,7 @@
 1. `invertBinaryTree.py` 226. 翻转二叉树
 1. `kthSmallestElementInaBst.py` 230. 二叉搜索树中第K小的元素
 1. `powerOfTwo.py` 231. 2的幂
+1. `implementQueueUsingStacks.py` 232. 用栈实现队列
 1. `palindromeLinkedList.py` 234. 回文链表
 1. `deleteNodeInaLinkedList.py` 237. 删除链表中的节点
 1. `searcha2dMatrixIi.py` 240. 搜索二维矩阵 II
@@ -117,13 +122,16 @@
 1. `findDuplicateFileInSystem.py` 609. 在系统中查找重复文件
 1. `swapSalary.txt` 627. 交换工资
 1. `averageOfLevelsInBinaryTree.py` 637. 二叉树的层平均值
+1. `maximumAverageSubarrayI.py` 643. 子数组最大平均数 I
 1. `nonDecreasingArray.py` 665. 非递减数列
 1. `secondMinimumNodeInaBinaryTree.py` 671. 二叉树中第二小的节点
 1. `validPalindromeIi.py` 680. 验证回文字符串 Ⅱ
 1. `binarySearch.py` 704. 二分查找
 1. `toLowerCase.py` 709. 转换成小写字母
+1. `selfDividingNumbers.py` 728. 自除数
 1. `asteroidCollision.py` 735. 行星碰撞
 1. `toeplitzMatrix.py` 766. 托普利茨矩阵
+1. `rabbitsInForest.py` 781. 森林中的兔子
 1. `subdomainVisitCount.py` 811. 子域名访问计数
 1. `goatLatin.py` 824. 山羊拉丁文
 1. `flippingAnImage.py` 832. 翻转图像
@@ -134,6 +142,7 @@
 1. `uniqueEmailAddresses.py` 929. 独特的电子邮件地址
 1. `verifyingAnAlienDictionary.py` 953. 验证外星语词典
 1. `nRepeatedElementInSize2nArray.py` 961. 重复 N 次的元素
+1. `univaluedBinaryTree.py` 965. 单值二叉树
 1. `vowelSpellchecker.py` 966. 元音拼写检查器
 1. `powerfulIntegers.py` 970. 强整数
 1. `kClosestPointsToOrigin.py` 973. 最接近原点的 K 个点
@@ -141,6 +150,7 @@
 1. `largestPerimeterTriangle.py` 976. 三角形的最大周长
 1. `squaresOfASortedArray.py` 977. 有序数组的平方
 1. `longestTurbulentSubarray.py` 978. 最长湍流子数组
+1. `uniquePathsIii.py` 980. 不同路径 III
 1. `timeBasedKeyValueStore.py` 981. 基于时间的键值存储
 1. `stringWithoutAaaOrBbb.py` 984. 不含 AAA 或 BBB 的字符串
 1. `sumOfEvenNumbersAfterQueries.py` 985. 查询后的偶数和
@@ -167,3 +177,5 @@ todo:
 1. `theSkylineProblem.py` 218. 天际线问题
 1. `corporateFlightBookings.py` 1109. 航班预订统计
 1. `trappingRainWaterIi.py` 407. 接雨水 II
+1. `splitAStringInBalancedStrings.py` 1221. 分割平衡字符串
+1. `designCircularQueue.py` 622. 设计循环队列
