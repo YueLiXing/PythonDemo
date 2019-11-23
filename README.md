@@ -120,8 +120,10 @@
 1. `bigCountries.txt` 595. 大的国家
 1. `canPlaceFlowers.py` 605. 种花问题
 1. `findDuplicateFileInSystem.py` 609. 在系统中查找重复文件
+1. `designCircularQueue.py` 622. 设计循环队列
 1. `swapSalary.txt` 627. 交换工资
 1. `averageOfLevelsInBinaryTree.py` 637. 二叉树的层平均值
+1. `designCircularDeque.py` 641. 设计循环双端队列
 1. `maximumAverageSubarrayI.py` 643. 子数组最大平均数 I
 1. `nonDecreasingArray.py` 665. 非递减数列
 1. `secondMinimumNodeInaBinaryTree.py` 671. 二叉树中第二小的节点
@@ -178,4 +180,3 @@ todo:
 1. `corporateFlightBookings.py` 1109. 航班预订统计
 1. `trappingRainWaterIi.py` 407. 接雨水 II
 1. `splitAStringInBalancedStrings.py` 1221. 分割平衡字符串
-1. `designCircularQueue.py` 622. 设计循环队列

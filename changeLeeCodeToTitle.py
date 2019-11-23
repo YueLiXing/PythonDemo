@@ -1,5 +1,5 @@
 
-engTitle = "design-circular-queue"
+engTitle = "design-circular-deque"
 
 tempArr = engTitle.split("-")
 resultArr = []
