@@ -45,6 +45,7 @@
 1. `searchInsertPosition.py` 35. 搜索插入位置
 1. `validSudoku.py` 36. 有效的数独
 1. `sudokuSolver.py` 37. 解数独
+1. `countAndSay.py` 38. 报数
 1. `firstMissingPositive.py` 41. 缺失的第一个正数
 1. `trappingRainWater.py` 42. 接雨水
 1. `multiplyStrings.py` 43. 字符串相乘
@@ -69,6 +70,7 @@
 1. `binaryTreeLevelOrderTraversal.py` 102. 二叉树的层次遍历
 1. `binaryTreeZigzagLevelOrderTraversal.py` 103. 二叉树的锯齿形层次遍历
 1. `binaryTreeLevelOrderTraversalIi.py` 107. 二叉树的层次遍历 II
+1. `flattenBinaryTreeToLinkedList.py` 114. 二叉树展开为链表
 1. `populatingNextRightPointersInEachNode.py` 116. 填充每个节点的下一个右侧节点指针
 1. `populatingNextRightPointersInEachNodeIi.py` 117. 填充每个节点的下一个右侧节点指针 II
 1. `pascalsTriangle.py` 118. 杨辉三角
@@ -78,6 +80,7 @@
 1. `singleNumber.py` 136. 只出现一次的数字
 1. `linkedListCycle.py` 141. 环形链表
 1. `binaryTreePreorderTraversal.py` 144. 二叉树的前序遍历
+1. `binaryTreePostorderTraversal.py` 145. 二叉树的后序遍历
 1. `lruCache.py` 146. LRU缓存机制
 1. `duplicateEmails.txt` 182. 查找重复的电子邮箱
 1. `binaryTreeRightSideView.py` 199. 二叉树的右视图
@@ -104,6 +107,7 @@
 1. `firstUniqueCharacterInaString.py` 387. 字符串中的第一个唯一字符
 1. `addStrings.py` 415. 字符串相加
 1. `nAryTreeLevelOrderTraversal.py` 429. N叉树的层序遍历
+1. `stringCompression.py` 443. 压缩字符串
 1. `lfuCache.py` 460. LFU缓存
 1. `generateRandomPointInACircle.py` 478. 在圆内随机生成点
 1. `maxConsecutiveOnes.py` 485. 最大连续1的个数
@@ -135,11 +139,13 @@
 1. `toeplitzMatrix.py` 766. 托普利茨矩阵
 1. `rabbitsInForest.py` 781. 森林中的兔子
 1. `subdomainVisitCount.py` 811. 子域名访问计数
+1. `linkedListComponents.py` 817. 链表组件
 1. `goatLatin.py` 824. 山羊拉丁文
 1. `flippingAnImage.py` 832. 翻转图像
 1. `fairCandySwap.py` 888. 公平的糖果交换
 1. `maximumFrequencyStack.py` 895. 最大频率栈
 1. `partitionArrayIntoDisjointIntervals.py` 915. 分割数组
+1. `sortArrayByParityIi.py` 922. 按奇偶排序数组 II
 1. `longPressedName.py` 925. 长按键入
 1. `uniqueEmailAddresses.py` 929. 独特的电子邮件地址
 1. `verifyingAnAlienDictionary.py` 953. 验证外星语词典
@@ -175,8 +181,8 @@ todo:
 1. `nthMagicalNumber.py` 878. 第 N 个神奇数字
 1. `combinationSum.py` 39. 组合总和
 1. `reverseLinkedListIi.py` 92. 反转链表 II
-1. `binaryTreePostorderTraversal.py` 145. 二叉树的后序遍历
 1. `theSkylineProblem.py` 218. 天际线问题
 1. `corporateFlightBookings.py` 1109. 航班预订统计
 1. `trappingRainWaterIi.py` 407. 接雨水 II
 1. `splitAStringInBalancedStrings.py` 1221. 分割平衡字符串
+1. `onlineMajorityElementInSubarray.py` 1157. 子数组中占绝大多数的元素
