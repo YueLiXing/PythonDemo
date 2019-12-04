@@ -1,5 +1,5 @@
 
-engTitle = "flatten-binary-tree-to-linked-list"
+engTitle = "snapshot-array"
 
 tempArr = engTitle.split("-")
 resultArr = []

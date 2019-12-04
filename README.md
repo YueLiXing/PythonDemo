@@ -101,10 +101,13 @@
 1. `missingNumber.py` 268. 缺失数字
 1. `firstBadVersion.py` 278. 第一个错误的版本
 1. `maximumProductOfWordLengths.py` 318. 最大单词长度乘积
+1. `intersectionOfTwoArrays.py` 349. 两个数组的交集
+1. `intersectionOfTwoArraysIi.py` 350. 两个数组的交集 II
 1. `designTwitter.py` 355. 设计推特
 1. `guessNumberHigherOrLower.py` 374. 猜数字大小
 1. `ransomNote.py` 383. 赎金信
 1. `firstUniqueCharacterInaString.py` 387. 字符串中的第一个唯一字符
+1. `findTheDifference.py` 389. 找不同
 1. `addStrings.py` 415. 字符串相加
 1. `nAryTreeLevelOrderTraversal.py` 429. N叉树的层序遍历
 1. `stringCompression.py` 443. 压缩字符串
@@ -138,6 +141,7 @@
 1. `asteroidCollision.py` 735. 行星碰撞
 1. `toeplitzMatrix.py` 766. 托普利茨矩阵
 1. `rabbitsInForest.py` 781. 森林中的兔子
+1. `kThSymbolInGrammar.py` 779. 第K个语法符号
 1. `subdomainVisitCount.py` 811. 子域名访问计数
 1. `linkedListComponents.py` 817. 链表组件
 1. `goatLatin.py` 824. 山羊拉丁文
@@ -167,10 +171,12 @@
 1. `addToArrayFormOfInteger.py` 989. 数组形式的整数加法
 1. `brokenCalculator.py` 991. 坏了的计算器
 1. `findTheTownJudge.py` 997. 找到小镇的法官
+1. `findCommonCharacters.py` 1002. 查找常用字符
 1. `complementOfBase10Integer.py` 1009. 十进制整数的反码
 1. `pairsOfSongsWithTotalDurationsDivisibleBy60.py` 1010. 总持续时间可被 60 整除的歌曲
 1. `capacityToShipPackagesWithindDays.py` 1011. 在 D 天内送达包裹的能力
 1. `removeAllAdjacentDuplicatesInString.py` 1047. 删除字符串中的所有相邻重复项
+1. `snapshotArray.py` 1146. 快照数组
 
 
 todo:
