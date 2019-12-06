@@ -1,5 +1,5 @@
 
-engTitle = "snapshot-array"
+engTitle = "permutation-sequence"
 
 tempArr = engTitle.split("-")
 resultArr = []

@@ -58,6 +58,7 @@
 1. `spiralMatrix.py` 54. 螺旋矩阵
 1. `mergeIntervals.py` 56. 合并区间 
 1. `insertInterval.py` 57. 插入区间
+1. `permutationSequence.py` 60. 第k个排列
 1. `uniquePaths.py` 62. 不同路径
 1. `uniquePathsIi.py` 63. 不同路径 II
 1. `plusOne.py` 66. 加一
@@ -152,6 +153,8 @@
 1. `sortArrayByParityIi.py` 922. 按奇偶排序数组 II
 1. `longPressedName.py` 925. 长按键入
 1. `uniqueEmailAddresses.py` 929. 独特的电子邮件地址
+1. `beautifulArray.py` 932. 漂亮数组
+1. `diStringMatch.py` 942. 增减字符串匹配
 1. `verifyingAnAlienDictionary.py` 953. 验证外星语词典
 1. `nRepeatedElementInSize2nArray.py` 961. 重复 N 次的元素
 1. `univaluedBinaryTree.py` 965. 单值二叉树
