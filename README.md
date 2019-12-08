@@ -52,6 +52,7 @@
 1. `permutations.py` 46. 全排列 
 1. `permutationsIi.py` 47. 全排列 II
 1. `rotateImage.py` 48. 旋转图像
+1. `groupAnagrams.py` 49. 字母异位词分组
 1. `powxN.py` 50. Pow(x, n)
 1. `nQueens.py` 51. N皇后
 1. `nQueensIi.py` 52. N皇后 II
@@ -98,6 +99,7 @@
 1. `palindromeLinkedList.py` 234. 回文链表
 1. `deleteNodeInaLinkedList.py` 237. 删除链表中的节点
 1. `searcha2dMatrixIi.py` 240. 搜索二维矩阵 II
+1. `validAnagram.py` 242. 有效的字母异位词
 1. `addDigits.py` 258. 各位相加
 1. `missingNumber.py` 268. 缺失数字
 1. `firstBadVersion.py` 278. 第一个错误的版本
@@ -106,9 +108,11 @@
 1. `intersectionOfTwoArraysIi.py` 350. 两个数组的交集 II
 1. `designTwitter.py` 355. 设计推特
 1. `guessNumberHigherOrLower.py` 374. 猜数字大小
+1. `linkedListRandomNode.py` 382. 链表随机节点
 1. `ransomNote.py` 383. 赎金信
 1. `firstUniqueCharacterInaString.py` 387. 字符串中的第一个唯一字符
 1. `findTheDifference.py` 389. 找不同
+1. `randomPickIndex.py` 398. 随机数索引
 1. `addStrings.py` 415. 字符串相加
 1. `nAryTreeLevelOrderTraversal.py` 429. N叉树的层序遍历
 1. `stringCompression.py` 443. 压缩字符串
@@ -195,3 +199,4 @@ todo:
 1. `trappingRainWaterIi.py` 407. 接雨水 II
 1. `splitAStringInBalancedStrings.py` 1221. 分割平衡字符串
 1. `onlineMajorityElementInSubarray.py` 1157. 子数组中占绝大多数的元素
+1. `randomPickWithWeight.py` 528. 按权重随机选择 (已经提交了反馈，等待反馈)
