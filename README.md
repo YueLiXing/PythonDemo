@@ -84,6 +84,8 @@
 1. `binaryTreePreorderTraversal.py` 144. 二叉树的前序遍历
 1. `binaryTreePostorderTraversal.py` 145. 二叉树的后序遍历
 1. `lruCache.py` 146. LRU缓存机制
+1. `findMinimumInRotatedSortedArray.py` 153. 寻找旋转排序数组中的最小值
+1. `findMinimumInRotatedSortedArrayIi.py` 154. 寻找旋转排序数组中的最小值 II
 1. `duplicateEmails.txt` 182. 查找重复的电子邮箱
 1. `binaryTreeRightSideView.py` 199. 二叉树的右视图
 1. `happyNumber.py` 202. 快乐数
@@ -125,6 +127,7 @@
 1. `randomPointInNonOverlappingRectangles.py` 497. 非重叠矩形中的随机点
 1. `nextGreaterElementIi.py` 503. 下一个更大元素 II
 1. `detectCapital.py` 520. 检测大写字母
+1. `randomPickWithWeight.py` 528. 按权重随机选择
 1. `reshapeTheMatrix.py` 566. 重塑矩阵
 1. `permutationInString.py` 567. 字符串的排列
 1. `nAryTreePreorderTraversal.py` 589. N叉树的前序遍历
@@ -142,6 +145,7 @@
 1. `validPalindromeIi.py` 680. 验证回文字符串 Ⅱ
 1. `binarySearch.py` 704. 二分查找
 1. `toLowerCase.py` 709. 转换成小写字母
+1. `randomPickWithBlacklist.py` 710. 黑名单中的随机数
 1. `selfDividingNumbers.py` 728. 自除数
 1. `asteroidCollision.py` 735. 行星碰撞
 1. `toeplitzMatrix.py` 766. 托普利茨矩阵
@@ -151,6 +155,7 @@
 1. `linkedListComponents.py` 817. 链表组件
 1. `goatLatin.py` 824. 山羊拉丁文
 1. `flippingAnImage.py` 832. 翻转图像
+1. `decodedStringAtIndex.py` 880. 索引处的解码字符串
 1. `fairCandySwap.py` 888. 公平的糖果交换
 1. `maximumFrequencyStack.py` 895. 最大频率栈
 1. `partitionArrayIntoDisjointIntervals.py` 915. 分割数组
@@ -199,4 +204,3 @@ todo:
 1. `trappingRainWaterIi.py` 407. 接雨水 II
 1. `splitAStringInBalancedStrings.py` 1221. 分割平衡字符串
 1. `onlineMajorityElementInSubarray.py` 1157. 子数组中占绝大多数的元素
-1. `randomPickWithWeight.py` 528. 按权重随机选择 (已经提交了反馈，等待反馈)
