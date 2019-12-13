@@ -90,6 +90,7 @@
 1. `binaryTreeRightSideView.py` 199. 二叉树的右视图
 1. `happyNumber.py` 202. 快乐数
 1. `removeLinkedListElements.py` 203. 移除链表元素
+1. `isomorphicStrings.py` 205. 同构字符串
 1. `reverseLinkedList.py` 206. 反转链表
 1. `containsDuplicate.py` 217. 存在重复元素
 1. `containsDuplicateIi.py` 219. 存在重复元素 II
@@ -105,6 +106,7 @@
 1. `addDigits.py` 258. 各位相加
 1. `missingNumber.py` 268. 缺失数字
 1. `firstBadVersion.py` 278. 第一个错误的版本
+1. `wordPattern.py` 290. 单词规律
 1. `maximumProductOfWordLengths.py` 318. 最大单词长度乘积
 1. `intersectionOfTwoArrays.py` 349. 两个数组的交集
 1. `intersectionOfTwoArraysIi.py` 350. 两个数组的交集 II
@@ -148,6 +150,7 @@
 1. `randomPickWithBlacklist.py` 710. 黑名单中的随机数
 1. `selfDividingNumbers.py` 728. 自除数
 1. `asteroidCollision.py` 735. 行星碰撞
+1. `dailyTemperatures.py` 739. 每日温度
 1. `toeplitzMatrix.py` 766. 托普利茨矩阵
 1. `rabbitsInForest.py` 781. 森林中的兔子
 1. `kThSymbolInGrammar.py` 779. 第K个语法符号
@@ -158,6 +161,7 @@
 1. `decodedStringAtIndex.py` 880. 索引处的解码字符串
 1. `fairCandySwap.py` 888. 公平的糖果交换
 1. `maximumFrequencyStack.py` 895. 最大频率栈
+1. `increasingOrderSearchTree.py` 897. 递增顺序查找树
 1. `partitionArrayIntoDisjointIntervals.py` 915. 分割数组
 1. `sortArrayByParityIi.py` 922. 按奇偶排序数组 II
 1. `longPressedName.py` 925. 长按键入
@@ -189,6 +193,7 @@
 1. `capacityToShipPackagesWithindDays.py` 1011. 在 D 天内送达包裹的能力
 1. `removeAllAdjacentDuplicatesInString.py` 1047. 删除字符串中的所有相邻重复项
 1. `snapshotArray.py` 1146. 快照数组
+1. `findWordsThatCanBeFormedByCharacters.py` 1160. 拼写单词
 
 
 todo:
