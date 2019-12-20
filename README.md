@@ -64,6 +64,7 @@
 1. `uniquePathsIi.py` 63. 不同路径 II
 1. `plusOne.py` 66. 加一
 1. `addBinary.py` 67. 二进制求和
+1. `simplifyPath.py` 71. 简化路径
 1. `searcha2dMatrix.py` 74. 搜索二维矩阵
 1. `combinations.py` 77. 组合
 1. `mergeSortedArray.py` 88. 合并两个有序数组
@@ -187,13 +188,16 @@
 1. `addToArrayFormOfInteger.py` 989. 数组形式的整数加法
 1. `brokenCalculator.py` 991. 坏了的计算器
 1. `findTheTownJudge.py` 997. 找到小镇的法官
+1. `availableCapturesForRook.py` 999. 车的可用捕获量
 1. `findCommonCharacters.py` 1002. 查找常用字符
 1. `complementOfBase10Integer.py` 1009. 十进制整数的反码
 1. `pairsOfSongsWithTotalDurationsDivisibleBy60.py` 1010. 总持续时间可被 60 整除的歌曲
 1. `capacityToShipPackagesWithindDays.py` 1011. 在 D 天内送达包裹的能力
 1. `removeAllAdjacentDuplicatesInString.py` 1047. 删除字符串中的所有相邻重复项
+1. `numberOfEquivalentDominoPairs.py` 1128. 等价多米诺骨牌对的数量
 1. `snapshotArray.py` 1146. 快照数组
 1. `findWordsThatCanBeFormedByCharacters.py` 1160. 拼写单词
+1. `queensThatCanAttackTheKing.py` 1222. 可以攻击国王的皇后
 
 
 todo:
@@ -209,3 +213,4 @@ todo:
 1. `trappingRainWaterIi.py` 407. 接雨水 II
 1. `splitAStringInBalancedStrings.py` 1221. 分割平衡字符串
 1. `onlineMajorityElementInSubarray.py` 1157. 子数组中占绝大多数的元素
+1. `heightChecker.py` 1051. 高度检查器
