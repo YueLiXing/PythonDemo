@@ -1,5 +1,5 @@
 
-engTitle = "available-captures-for-rook"
+engTitle = "majority-element"
 
 tempArr = engTitle.split("-")
 resultArr = []

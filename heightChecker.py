@@ -1,26 +1,10 @@
-import collections
-
-
 class Solution:
     def heightChecker(self, heights: [int]) -> int:
-        cacheDict = collections.defaultdict(int)
-        for tempH in heights:
-            cacheDict[tempH] += 1
+        sorted_heights = sorted(heights)
         count = 0
-        j = 0
         for i in range(len(heights)):
-            cacheDict[heights[i]] -= 1
-            while cacheDict[heights[i]] > 0:
-                if :
-                    pass
-                j += 1
-
-        int count = 0
-        for (int i=1, j=0, i < arr.length, i++)       {
-            while (arr[i]-- > 0) {
-                if (heights[j++] != i) count++
-            }
-        }
+            if heights[i] != sorted_heights[i]:
+                count += 1
         return count
 
 

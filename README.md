@@ -67,6 +67,7 @@
 1. `simplifyPath.py` 71. 简化路径
 1. `searcha2dMatrix.py` 74. 搜索二维矩阵
 1. `combinations.py` 77. 组合
+1. `removeDuplicatesFromSortedArrayIi.py` 80. 删除排序数组中的重复项 II
 1. `mergeSortedArray.py` 88. 合并两个有序数组
 1. `binaryTreeInorderTraversal.py` 94. 二叉树的中序遍历
 1. `sameTree.py` 100. 相同的树
@@ -87,6 +88,7 @@
 1. `lruCache.py` 146. LRU缓存机制
 1. `findMinimumInRotatedSortedArray.py` 153. 寻找旋转排序数组中的最小值
 1. `findMinimumInRotatedSortedArrayIi.py` 154. 寻找旋转排序数组中的最小值 II
+1. `majorityElement.py` 169. 多数元素
 1. `duplicateEmails.txt` 182. 查找重复的电子邮箱
 1. `binaryTreeRightSideView.py` 199. 二叉树的右视图
 1. `happyNumber.py` 202. 快乐数
@@ -97,6 +99,7 @@
 1. `containsDuplicateIi.py` 219. 存在重复元素 II
 1. `containsDuplicateIii.py` 220. 存在重复元素 III
 1. `invertBinaryTree.py` 226. 翻转二叉树
+1. `majorityElementIi.py` 229. 求众数 II
 1. `kthSmallestElementInaBst.py` 230. 二叉搜索树中第K小的元素
 1. `powerOfTwo.py` 231. 2的幂
 1. `implementQueueUsingStacks.py` 232. 用栈实现队列
@@ -133,16 +136,19 @@
 1. `randomPickWithWeight.py` 528. 按权重随机选择
 1. `reshapeTheMatrix.py` 566. 重塑矩阵
 1. `permutationInString.py` 567. 字符串的排列
+1. `shortestUnsortedContinuousSubarray.py` 581. 最短无序连续子数组
 1. `nAryTreePreorderTraversal.py` 589. N叉树的前序遍历
 1. `nAryTreePostorderTraversal.py`590. N叉树的后序遍历
 1. `bigCountries.txt` 595. 大的国家
 1. `canPlaceFlowers.py` 605. 种花问题
 1. `findDuplicateFileInSystem.py` 609. 在系统中查找重复文件
+1. `mergeTwoBinaryTrees.py` 617. 合并二叉树
 1. `designCircularQueue.py` 622. 设计循环队列
 1. `swapSalary.txt` 627. 交换工资
 1. `averageOfLevelsInBinaryTree.py` 637. 二叉树的层平均值
 1. `designCircularDeque.py` 641. 设计循环双端队列
 1. `maximumAverageSubarrayI.py` 643. 子数组最大平均数 I
+1. `imageSmoother.py` 661. 图片平滑器
 1. `nonDecreasingArray.py` 665. 非递减数列
 1. `secondMinimumNodeInaBinaryTree.py` 671. 二叉树中第二小的节点
 1. `validPalindromeIi.py` 680. 验证回文字符串 Ⅱ
@@ -194,6 +200,7 @@
 1. `pairsOfSongsWithTotalDurationsDivisibleBy60.py` 1010. 总持续时间可被 60 整除的歌曲
 1. `capacityToShipPackagesWithindDays.py` 1011. 在 D 天内送达包裹的能力
 1. `removeAllAdjacentDuplicatesInString.py` 1047. 删除字符串中的所有相邻重复项
+1. `heightChecker.py` 1051. 高度检查器
 1. `numberOfEquivalentDominoPairs.py` 1128. 等价多米诺骨牌对的数量
 1. `snapshotArray.py` 1146. 快照数组
 1. `findWordsThatCanBeFormedByCharacters.py` 1160. 拼写单词
@@ -213,4 +220,3 @@ todo:
 1. `trappingRainWaterIi.py` 407. 接雨水 II
 1. `splitAStringInBalancedStrings.py` 1221. 分割平衡字符串
 1. `onlineMajorityElementInSubarray.py` 1157. 子数组中占绝大多数的元素
-1. `heightChecker.py` 1051. 高度检查器
