@@ -1,5 +1,5 @@
 
-engTitle = "majority-element"
+engTitle = "sorted-merge-lcci"
 
 tempArr = engTitle.split("-")
 resultArr = []

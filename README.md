@@ -112,6 +112,7 @@
 1. `firstBadVersion.py` 278. 第一个错误的版本
 1. `wordPattern.py` 290. 单词规律
 1. `maximumProductOfWordLengths.py` 318. 最大单词长度乘积
+1. `reverseString.py` 344. 反转字符串
 1. `intersectionOfTwoArrays.py` 349. 两个数组的交集
 1. `intersectionOfTwoArraysIi.py` 350. 两个数组的交集 II
 1. `designTwitter.py` 355. 设计推特
@@ -134,6 +135,8 @@
 1. `nextGreaterElementIi.py` 503. 下一个更大元素 II
 1. `detectCapital.py` 520. 检测大写字母
 1. `randomPickWithWeight.py` 528. 按权重随机选择
+1. `reverseStringIi.py` 541. 反转字符串 II
+1. `reverseWordsInAStringIii.py` 557. 反转字符串中的单词 III
 1. `reshapeTheMatrix.py` 566. 重塑矩阵
 1. `permutationInString.py` 567. 字符串的排列
 1. `shortestUnsortedContinuousSubarray.py` 581. 最短无序连续子数组
@@ -206,7 +209,6 @@
 1. `findWordsThatCanBeFormedByCharacters.py` 1160. 拼写单词
 1. `queensThatCanAttackTheKing.py` 1222. 可以攻击国王的皇后
 
-
 todo:
 
 1. `middleOfTheLinkedList.py` 876. 链表的中间结点
@@ -220,3 +222,8 @@ todo:
 1. `trappingRainWaterIi.py` 407. 接雨水 II
 1. `splitAStringInBalancedStrings.py` 1221. 分割平衡字符串
 1. `onlineMajorityElementInSubarray.py` 1157. 子数组中占绝大多数的元素
+1. `palindromicSubstrings.py` 647. 回文子串
+
+
+#### 每日一题
+1. `sortedMergeLcci.py` 面试题 10.01. 合并排序的数组
