@@ -88,6 +88,7 @@
 1. `lruCache.py` 146. LRU缓存机制
 1. `findMinimumInRotatedSortedArray.py` 153. 寻找旋转排序数组中的最小值
 1. `findMinimumInRotatedSortedArrayIi.py` 154. 寻找旋转排序数组中的最小值 II
+1. `minStack.py` 155. 最小栈
 1. `majorityElement.py` 169. 多数元素
 1. `duplicateEmails.txt` 182. 查找重复的电子邮箱
 1. `binaryTreeRightSideView.py` 199. 二叉树的右视图

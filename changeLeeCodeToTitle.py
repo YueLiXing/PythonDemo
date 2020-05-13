@@ -1,5 +1,5 @@
 
-engTitle = "majority-element"
+engTitle = "min-stack"
 
 tempArr = engTitle.split("-")
 resultArr = []
