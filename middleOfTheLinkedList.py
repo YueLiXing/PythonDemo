@@ -7,7 +7,12 @@ class ListNode:
 
 class Solution(object):
     def middleNode(self, head):
-        A = [head]
-        while A[-1].next:
-            A.append(A[-1].next)
-        return A[len(A) // 2]
+        low = fast = head
+        while fast:
+            if fast.next is None:
+                return low
+            if fast.next.next is None:
+                return low.next
+            low = low.next
+            fast = fast.next.next
+        return low

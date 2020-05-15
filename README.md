@@ -70,6 +70,7 @@
 1. `combinations.py` 77. 组合
 1. `removeDuplicatesFromSortedArrayIi.py` 80. 删除排序数组中的重复项 II
 1. `mergeSortedArray.py` 88. 合并两个有序数组
+1. `restoreIpAddresses.py` 93. 复原IP地址
 1. `binaryTreeInorderTraversal.py` 94. 二叉树的中序遍历
 1. `sameTree.py` 100. 相同的树
 1. `binaryTreeLevelOrderTraversal.py` 102. 二叉树的层次遍历
@@ -87,6 +88,7 @@
 1. `binaryTreePreorderTraversal.py` 144. 二叉树的前序遍历
 1. `binaryTreePostorderTraversal.py` 145. 二叉树的后序遍历
 1. `lruCache.py` 146. LRU缓存机制
+1. `reverseWordsInAString.py` 151. 翻转字符串里的单词
 1. `findMinimumInRotatedSortedArray.py` 153. 寻找旋转排序数组中的最小值
 1. `findMinimumInRotatedSortedArrayIi.py` 154. 寻找旋转排序数组中的最小值 II
 1. `minStack.py` 155. 最小栈
@@ -136,6 +138,7 @@
 1. `nextGreaterElementIi.py` 503. 下一个更大元素 II
 1. `detectCapital.py` 520. 检测大写字母
 1. `randomPickWithWeight.py` 528. 按权重随机选择
+1. `subarraySumEqualsK.py` 560. 和为K的子数组
 1. `reshapeTheMatrix.py` 566. 重塑矩阵
 1. `permutationInString.py` 567. 字符串的排列
 1. `shortestUnsortedContinuousSubarray.py` 581. 最短无序连续子数组
@@ -167,6 +170,7 @@
 1. `linkedListComponents.py` 817. 链表组件
 1. `goatLatin.py` 824. 山羊拉丁文
 1. `flippingAnImage.py` 832. 翻转图像
+1. `middleOfTheLinkedList.py` 876. 链表的中间结点
 1. `decodedStringAtIndex.py` 880. 索引处的解码字符串
 1. `fairCandySwap.py` 888. 公平的糖果交换
 1. `maximumFrequencyStack.py` 895. 最大频率栈
@@ -211,7 +215,6 @@
 
 todo:
 
-1. `middleOfTheLinkedList.py` 876. 链表的中间结点
 1. `countDifferentPalindromicSubsequences.py` 730. 统计不同回文子字符串
 1. `satisfiabilityOfEqualityEquations.py` 990. 等式方程的可满足性
 1. `nthMagicalNumber.py` 878. 第 N 个神奇数字
