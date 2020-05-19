@@ -227,3 +227,4 @@ todo:
 
 #### 每日一题
 1. `sortedMergeLcci.py` 面试题 10.01. 合并排序的数组
+1. `rottingOranges.py` 994. 腐烂的橘子

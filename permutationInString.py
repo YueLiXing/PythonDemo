@@ -28,7 +28,7 @@ class Solution:
             if tempCharDict.__eq__(charDict1):
                 return True
         return False
-            
+
 
 print(Solution().checkInclusion("adc", "dcda"))
 
