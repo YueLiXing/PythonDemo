@@ -12,6 +12,7 @@
 1. `orderFiles.py` 排序某个文件夹下文件（自己酌情修改）
 1. `checkfileAddXcode.py` 检查文件是否都添加到 Xcode 中
 1. `hexConvert.py` 进制转换
+1. `temp.py` 临时文件
 
 ### [力扣网站](https://leetcode-cn.com/)
 1. `twosum.py` 1. 两数之和
@@ -36,6 +37,7 @@
 1. `mergeTwoSortedLists.py` 21. 合并两个有序链表
 1. `mergekSortedLists.py` 23. 合并K个排序链表
 1. `swapNodesInPairs.py` 24. 两两交换链表中的节点
+1. `reverseNodesInKGroup.py` 25. K 个一组翻转链表
 1. `removeDuplicatesFromSortedArray.py` 26. 删除排序数组中的重复项
 1. `removeElement.py` 27. 移除元素
 1. `implementStrstr.py` 28. 实现strStr()
@@ -69,6 +71,7 @@
 1. `combinations.py` 77. 组合
 1. `removeDuplicatesFromSortedArrayIi.py` 80. 删除排序数组中的重复项 II
 1. `mergeSortedArray.py` 88. 合并两个有序数组
+1. `restoreIpAddresses.py` 93. 复原IP地址
 1. `binaryTreeInorderTraversal.py` 94. 二叉树的中序遍历
 1. `sameTree.py` 100. 相同的树
 1. `binaryTreeLevelOrderTraversal.py` 102. 二叉树的层次遍历
@@ -86,9 +89,12 @@
 1. `binaryTreePreorderTraversal.py` 144. 二叉树的前序遍历
 1. `binaryTreePostorderTraversal.py` 145. 二叉树的后序遍历
 1. `lruCache.py` 146. LRU缓存机制
+1. `reverseWordsInAString.py` 151. 翻转字符串里的单词
 1. `findMinimumInRotatedSortedArray.py` 153. 寻找旋转排序数组中的最小值
 1. `findMinimumInRotatedSortedArrayIi.py` 154. 寻找旋转排序数组中的最小值 II
+1. `minStack.py` 155. 最小栈
 1. `majorityElement.py` 169. 多数元素
+1. `largestNumber.py` 179. 最大数
 1. `duplicateEmails.txt` 182. 查找重复的电子邮箱
 1. `binaryTreeRightSideView.py` 199. 二叉树的右视图
 1. `happyNumber.py` 202. 快乐数
@@ -137,6 +143,7 @@
 1. `randomPickWithWeight.py` 528. 按权重随机选择
 1. `reverseStringIi.py` 541. 反转字符串 II
 1. `reverseWordsInAStringIii.py` 557. 反转字符串中的单词 III
+1. `subarraySumEqualsK.py` 560. 和为K的子数组
 1. `reshapeTheMatrix.py` 566. 重塑矩阵
 1. `permutationInString.py` 567. 字符串的排列
 1. `shortestUnsortedContinuousSubarray.py` 581. 最短无序连续子数组
@@ -168,6 +175,7 @@
 1. `linkedListComponents.py` 817. 链表组件
 1. `goatLatin.py` 824. 山羊拉丁文
 1. `flippingAnImage.py` 832. 翻转图像
+1. `middleOfTheLinkedList.py` 876. 链表的中间结点
 1. `decodedStringAtIndex.py` 880. 索引处的解码字符串
 1. `fairCandySwap.py` 888. 公平的糖果交换
 1. `maximumFrequencyStack.py` 895. 最大频率栈
@@ -211,7 +219,6 @@
 
 todo:
 
-1. `middleOfTheLinkedList.py` 876. 链表的中间结点
 1. `countDifferentPalindromicSubsequences.py` 730. 统计不同回文子字符串
 1. `satisfiabilityOfEqualityEquations.py` 990. 等式方程的可满足性
 1. `nthMagicalNumber.py` 878. 第 N 个神奇数字
@@ -228,3 +235,4 @@ todo:
 #### 每日一题
 1. `sortedMergeLcci.py` 面试题 10.01. 合并排序的数组
 1. `rottingOranges.py` 994. 腐烂的橘子
+1. `courseSchedule.py` 207. 课程表
