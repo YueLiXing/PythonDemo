@@ -37,6 +37,7 @@
 1. `mergeTwoSortedLists.py` 21. 合并两个有序链表
 1. `mergekSortedLists.py` 23. 合并K个排序链表
 1. `swapNodesInPairs.py` 24. 两两交换链表中的节点
+1. `reverseNodesInKGroup.py` 25. K 个一组翻转链表
 1. `removeDuplicatesFromSortedArray.py` 26. 删除排序数组中的重复项
 1. `removeElement.py` 27. 移除元素
 1. `implementStrstr.py` 28. 实现strStr()
@@ -93,6 +94,7 @@
 1. `findMinimumInRotatedSortedArrayIi.py` 154. 寻找旋转排序数组中的最小值 II
 1. `minStack.py` 155. 最小栈
 1. `majorityElement.py` 169. 多数元素
+1. `largestNumber.py` 179. 最大数
 1. `duplicateEmails.txt` 182. 查找重复的电子邮箱
 1. `binaryTreeRightSideView.py` 199. 二叉树的右视图
 1. `happyNumber.py` 202. 快乐数
@@ -225,3 +227,4 @@ todo:
 1. `trappingRainWaterIi.py` 407. 接雨水 II
 1. `splitAStringInBalancedStrings.py` 1221. 分割平衡字符串
 1. `onlineMajorityElementInSubarray.py` 1157. 子数组中占绝大多数的元素
+1. `courseSchedule.py` 207. 课程表
