@@ -1,5 +1,5 @@
 
-engTitle = "largest-number"
+engTitle = "length-of-last-word"
 
 tempArr = engTitle.split("-")
 resultArr = []

@@ -61,6 +61,7 @@
 1. `spiralMatrix.py` 54. 螺旋矩阵
 1. `mergeIntervals.py` 56. 合并区间 
 1. `insertInterval.py` 57. 插入区间
+1. `lengthOfLastWord.py` 58. 最后一个单词的长度
 1. `permutationSequence.py` 60. 第k个排列
 1. `uniquePaths.py` 62. 不同路径
 1. `uniquePathsIi.py` 63. 不同路径 II
@@ -158,6 +159,7 @@
 1. `averageOfLevelsInBinaryTree.py` 637. 二叉树的层平均值
 1. `designCircularDeque.py` 641. 设计循环双端队列
 1. `maximumAverageSubarrayI.py` 643. 子数组最大平均数 I
+1. `palindromicSubstrings.py` 647. 回文子串
 1. `imageSmoother.py` 661. 图片平滑器
 1. `nonDecreasingArray.py` 665. 非递减数列
 1. `secondMinimumNodeInaBinaryTree.py` 671. 二叉树中第二小的节点
@@ -216,6 +218,7 @@
 1. `snapshotArray.py` 1146. 快照数组
 1. `findWordsThatCanBeFormedByCharacters.py` 1160. 拼写单词
 1. `queensThatCanAttackTheKing.py` 1222. 可以攻击国王的皇后
+1. `sortedMergeLcci.py` 面试题 10.01. 合并排序的数组
 
 todo:
 
@@ -229,10 +232,8 @@ todo:
 1. `trappingRainWaterIi.py` 407. 接雨水 II
 1. `splitAStringInBalancedStrings.py` 1221. 分割平衡字符串
 1. `onlineMajorityElementInSubarray.py` 1157. 子数组中占绝大多数的元素
-1. `palindromicSubstrings.py` 647. 回文子串
 
 
 #### 每日一题
-1. `sortedMergeLcci.py` 面试题 10.01. 合并排序的数组
 1. `rottingOranges.py` 994. 腐烂的橘子
 1. `courseSchedule.py` 207. 课程表

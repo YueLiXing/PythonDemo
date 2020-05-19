@@ -23,4 +23,4 @@ class Solution:
         return True
 
 
-Solution().countSubstrings("abc")
+print(Solution().countSubstrings("abc"))
