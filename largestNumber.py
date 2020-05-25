@@ -1,21 +1,18 @@
+import functools
+
+
 class Solution:
     def largestNumber(self, nums: [int]) -> str:
         def cmpStr(s1, s2) -> bool:
             # print("cmp", s1+s2, s2+s1)
-            return int(s1+s2) < int(s2+s1)
+            return int(s1+s2) - int(s2+s1)
 
         tempArr = []
         for tempN in nums:
             tempArr.append(str(tempN))
 
-        l = len(tempArr)
-        for i in range(l):
-            for index in range(l-1-i):
-                if cmpStr(tempArr[index], tempArr[index+1]):
-                    t = tempArr[index]
-                    tempArr[index] = tempArr[index+1]
-                    tempArr[index+1] = t
-        # print(tempArr)
+        tempArr.sort(key=functools.cmp_to_key(cmpStr), reverse=True)
+
         ret = "".join(tempArr)
         if int(ret) == 0:
             return "0"

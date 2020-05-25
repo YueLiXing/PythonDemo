@@ -237,3 +237,4 @@ todo:
 #### 每日一题
 1. `rottingOranges.py` 994. 腐烂的橘子
 1. `courseSchedule.py` 207. 课程表
+1. `findTheLongestSubstringContainingVowelsInEvenCounts.py` 1371. 每个元音包含偶数次的最长子字符串
