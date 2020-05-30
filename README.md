@@ -67,6 +67,7 @@
 1. `uniquePathsIi.py` 63. 不同路径 II
 1. `plusOne.py` 66. 加一
 1. `addBinary.py` 67. 二进制求和
+1. `sqrtx.py` 69. x 的平方根
 1. `simplifyPath.py` 71. 简化路径
 1. `searcha2dMatrix.py` 74. 搜索二维矩阵
 1. `combinations.py` 77. 组合
@@ -97,6 +98,7 @@
 1. `majorityElement.py` 169. 多数元素
 1. `largestNumber.py` 179. 最大数
 1. `duplicateEmails.txt` 182. 查找重复的电子邮箱
+1. `houseRobber.py` 198. 打家劫舍
 1. `binaryTreeRightSideView.py` 199. 二叉树的右视图
 1. `happyNumber.py` 202. 快乐数
 1. `removeLinkedListElements.py` 203. 移除链表元素
@@ -117,17 +119,20 @@
 1. `addDigits.py` 258. 各位相加
 1. `missingNumber.py` 268. 缺失数字
 1. `firstBadVersion.py` 278. 第一个错误的版本
+1. `findTheDuplicateNumber.py` 287. 寻找重复数
 1. `wordPattern.py` 290. 单词规律
 1. `maximumProductOfWordLengths.py` 318. 最大单词长度乘积
 1. `reverseString.py` 344. 反转字符串
 1. `intersectionOfTwoArrays.py` 349. 两个数组的交集
 1. `intersectionOfTwoArraysIi.py` 350. 两个数组的交集 II
 1. `designTwitter.py` 355. 设计推特
+1. `validPerfectSquare.py` 367. 有效的完全平方数
 1. `guessNumberHigherOrLower.py` 374. 猜数字大小
 1. `linkedListRandomNode.py` 382. 链表随机节点
 1. `ransomNote.py` 383. 赎金信
 1. `firstUniqueCharacterInaString.py` 387. 字符串中的第一个唯一字符
 1. `findTheDifference.py` 389. 找不同
+1. `decodeString.py` 394. 字符串解码
 1. `randomPickIndex.py` 398. 随机数索引
 1. `addStrings.py` 415. 字符串相加
 1. `nAryTreeLevelOrderTraversal.py` 429. N叉树的层序遍历
@@ -188,6 +193,7 @@
 1. `uniqueEmailAddresses.py` 929. 独特的电子邮件地址
 1. `beautifulArray.py` 932. 漂亮数组
 1. `diStringMatch.py` 942. 增减字符串匹配
+1. `flipEquivalentBinaryTrees.py` 951. 翻转等价二叉树
 1. `verifyingAnAlienDictionary.py` 953. 验证外星语词典
 1. `nRepeatedElementInSize2nArray.py` 961. 重复 N 次的元素
 1. `univaluedBinaryTree.py` 965. 单值二叉树
@@ -232,7 +238,7 @@ todo:
 1. `trappingRainWaterIi.py` 407. 接雨水 II
 1. `splitAStringInBalancedStrings.py` 1221. 分割平衡字符串
 1. `onlineMajorityElementInSubarray.py` 1157. 子数组中占绝大多数的元素
-
+1. `numberOfAtoms.py` 726. 原子的数量
 
 #### 每日一题
 1. `rottingOranges.py` 994. 腐烂的橘子

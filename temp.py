@@ -2,5 +2,5 @@ temp = {
     "a": 2
 }
 
-for k,v in temp.items():
+for k, v in temp.items():
     print(k, v)
