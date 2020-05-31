@@ -1,5 +1,5 @@
 
-engTitle = "flip-equivalent-binary-trees"
+engTitle = "split-a-string-in-balanced-strings"
 
 tempArr = engTitle.split("-")
 resultArr = []
