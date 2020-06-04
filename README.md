@@ -115,6 +115,7 @@
 1. `implementQueueUsingStacks.py` 232. 用栈实现队列
 1. `palindromeLinkedList.py` 234. 回文链表
 1. `deleteNodeInaLinkedList.py` 237. 删除链表中的节点
+1. `productOfArrayExceptSelf.py` 238. 除自身以外数组的乘积
 1. `searcha2dMatrixIi.py` 240. 搜索二维矩阵 II
 1. `validAnagram.py` 242. 有效的字母异位词
 1. `addDigits.py` 258. 各位相加
@@ -227,7 +228,10 @@
 1. `findWordsThatCanBeFormedByCharacters.py` 1160. 拼写单词
 1. `splitAStringInBalancedStrings.py` 1221. 分割平衡字符串
 1. `queensThatCanAttackTheKing.py` 1222. 可以攻击国王的皇后
+1. `kidsWithTheGreatestNumberOfCandies.py` 1431. 拥有最多糖果的孩子
+1. `buildAnArrayWithStackOperations.py` 1441. 用栈操作构建数组
 1. `sortedMergeLcci.py` 面试题 10.01. 合并排序的数组
+1. `qiu12nLcof.py` 面试题64. 求1+2+…+n
 
 todo:
 

@@ -1,5 +1,5 @@
 
-engTitle = "split-a-string-in-balanced-strings"
+engTitle = "product-of-array-except-self"
 
 tempArr = engTitle.split("-")
 resultArr = []
