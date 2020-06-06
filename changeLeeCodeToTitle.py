@@ -1,5 +1,5 @@
 
-engTitle = "product-of-array-except-self"
+engTitle = "longest-consecutive-sequence"
 
 tempArr = engTitle.split("-")
 resultArr = []
