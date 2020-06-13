@@ -246,6 +246,7 @@ todo:
 1. `satisfiabilityOfEqualityEquations.py` 990. 等式方程的可满足性
 1. `corporateFlightBookings.py` 1109. 航班预订统计
 1. `onlineMajorityElementInSubarray.py` 1157. 子数组中占绝大多数的元素
+1. `wordLadderIi.py` 126. 单词接龙 II
 
 #### 每日一题
 1. `rottingOranges.py` 994. 腐烂的橘子
