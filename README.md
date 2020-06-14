@@ -30,6 +30,7 @@
 1. `romanToInteger.py` 13. 罗马数字转整数
 1. `longestCommonPrefix.py` 14. 最长公共前缀
 1. `3sum.py` 15. 三数之和
+1. `3sum.swift` 15. 三数之和
 1. `3sumClosest.py` 16. 最接近的三数之和
 1. `letterCombinationsOfaPhoneNumber.py` 17. 电话号码的字母组合
 1. `removeNthNodeFromEndOfList.py` 19. 删除链表的倒数第N个节点
@@ -68,6 +69,7 @@
 1. `plusOne.py` 66. 加一
 1. `addBinary.py` 67. 二进制求和
 1. `sqrtx.py` 69. x 的平方根
+1. `climbingStairs.swift` 70. 爬楼梯
 1. `simplifyPath.py` 71. 简化路径
 1. `searcha2dMatrix.py` 74. 搜索二维矩阵
 1. `combinations.py` 77. 组合

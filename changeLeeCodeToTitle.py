@@ -1,5 +1,5 @@
 
-engTitle = "word-ladder-ii"
+engTitle = "climbing-stairs"
 
 tempArr = engTitle.split("-")
 resultArr = []
@@ -10,3 +10,4 @@ for temp in tempArr:
 
 
 print("".join(resultArr)+".py")
+print("".join(resultArr)+".swift")
