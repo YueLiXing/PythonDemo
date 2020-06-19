@@ -1,5 +1,5 @@
 
-engTitle = "climbing-stairs"
+engTitle = "longest-common-prefix"
 
 tempArr = engTitle.split("-")
 resultArr = []
