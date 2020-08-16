@@ -13,6 +13,7 @@
 1. `checkfileAddXcode.py` 检查文件是否都添加到 Xcode 中
 1. `hexConvert.py` 进制转换
 1. `temp.py` 临时文件
+1. `severalSort.py` 几种排序算法
 
 ### [力扣网站](https://leetcode-cn.com/)
 1. `twosum.py` 1. 两数之和
@@ -259,3 +260,4 @@ todo:
 1. `rottingOranges.py` 994. 腐烂的橘子
 1. `courseSchedule.py` 207. 课程表
 1. `findTheLongestSubstringContainingVowelsInEvenCounts.py` 1371. 每个元音包含偶数次的最长子字符串
+1. `palindromePairs.py` 336. 回文对
