@@ -1,5 +1,6 @@
 
-engTitle = "three-consecutive-odds"
+
+engTitle = "palindrome-pairs"
 
 tempArr = engTitle.split("-")
 resultArr = []

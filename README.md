@@ -13,6 +13,7 @@
 1. `checkfileAddXcode.py` 检查文件是否都添加到 Xcode 中
 1. `hexConvert.py` 进制转换
 1. `temp.py` 临时文件
+1. `severalSort.py` 几种排序算法
 
 ### [力扣网站](https://leetcode-cn.com/)
 1. `twosum.py` 1. 两数之和
@@ -22,6 +23,7 @@
 1. `longestPalindromicSubstring.py` 5. 最长回文子串
 1. `zigzagConversion.py` 6. Z 字形变换
 1. `reverseNum.py` 7. 整数反转
+1. `reverseNum.swift` 7. 整数反转
 1. `stringToIntegerAtoi.py` 8. 字符串转换整数 (atoi)
 1. `palindromeNumber.py` 9. 回文数
 1. `regularExpressionMatching.py` 10. 正则表达式匹配
@@ -29,6 +31,7 @@
 1. `integerToRoman.py` 12. 整数转罗马数字
 1. `romanToInteger.py` 13. 罗马数字转整数
 1. `longestCommonPrefix.py` 14. 最长公共前缀
+1. `longestCommonPrefix.swift` 14. 最长公共前缀
 1. `3sum.py` 15. 三数之和
 1. `3sum.swift` 15. 三数之和
 1. `3sumClosest.py` 16. 最接近的三数之和
@@ -88,6 +91,7 @@
 1. `pascalsTriangle.py` 118. 杨辉三角
 1. `pascalsTriangleIi.py` 119. 杨辉三角 II
 1. `validPalindrome.py` 125. 验证回文串
+1. `validPalindrome.swift` 125. 验证回文串
 1. `longestConsecutiveSequence.py` 128. 最长连续序列
 1. `singleNumber.py` 136. 只出现一次的数字
 1. `linkedListCycle.py` 141. 环形链表
@@ -230,11 +234,13 @@
 1. `findWordsThatCanBeFormedByCharacters.py` 1160. 拼写单词
 1. `splitAStringInBalancedStrings.py` 1221. 分割平衡字符串
 1. `queensThatCanAttackTheKing.py` 1222. 可以攻击国王的皇后
+1. `sumOfMutatedArrayClosestToTarget.swift` 1300. 转变数组后最接近目标值的数组和
 1. `kidsWithTheGreatestNumberOfCandies.py` 1431. 拥有最多糖果的孩子
 1. `buildAnArrayWithStackOperations.py` 1441. 用栈操作构建数组
 1. `threeConsecutiveOdds.py` 5185. 存在连续三个奇数的数组
 1. `sortedMergeLcci.py` 面试题 10.01. 合并排序的数组
 1. `shunShiZhenDaYinJuZhenLcof.py` 面试题29. 顺时针打印矩阵
+1. `baShuZiFanYiChengZiFuChuanLcof.swift` 面试题46. 把数字翻译成字符串
 1. `qiu12nLcof.py` 面试题64. 求1+2+…+n
 
 todo:
@@ -255,3 +261,4 @@ todo:
 1. `rottingOranges.py` 994. 腐烂的橘子
 1. `courseSchedule.py` 207. 课程表
 1. `findTheLongestSubstringContainingVowelsInEvenCounts.py` 1371. 每个元音包含偶数次的最长子字符串
+1. `palindromePairs.py` 336. 回文对
