@@ -1,5 +1,5 @@
 
-engTitle = "climbing-stairs"
+engTitle = "three-consecutive-odds"
 
 tempArr = engTitle.split("-")
 resultArr = []

@@ -232,6 +232,7 @@
 1. `queensThatCanAttackTheKing.py` 1222. 可以攻击国王的皇后
 1. `kidsWithTheGreatestNumberOfCandies.py` 1431. 拥有最多糖果的孩子
 1. `buildAnArrayWithStackOperations.py` 1441. 用栈操作构建数组
+1. `threeConsecutiveOdds.py` 5185. 存在连续三个奇数的数组
 1. `sortedMergeLcci.py` 面试题 10.01. 合并排序的数组
 1. `shunShiZhenDaYinJuZhenLcof.py` 面试题29. 顺时针打印矩阵
 1. `qiu12nLcof.py` 面试题64. 求1+2+…+n
