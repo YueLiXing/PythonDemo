@@ -14,6 +14,8 @@
 1. `hexConvert.py` 进制转换
 1. `temp.py` 临时文件
 1. `severalSort.py` 几种排序算法
+1. `reverseLink.py` 单链表翻转
+1. `lookupFileWithType.py` 查找一个文件下下面所有这个类型的文件
 
 ### [力扣网站](https://leetcode-cn.com/)
 1. `twosum.py` 1. 两数之和

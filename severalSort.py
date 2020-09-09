@@ -3,28 +3,24 @@ class Solution:
         countN = len(nums)
         for i in range(countN-1):
             for j in range(i+1, countN):
-                if (asc is True and nums[i] > nums[j]):
+                if nums[i] > nums[j]:
                     t = nums[i]
                     nums[i] = nums[j]
                     nums[j] = t
-                elif asc is False and nums[i] < nums[j]:
-                    t = nums[i]
-                    nums[i] = nums[j]
-                    nums[j] = t
+        if asc is False:
+            nums.reverse()
         return nums
 
     def maopaopaixu(self, nums: [int], asc: bool):
         countN = len(nums)
         for i in range(countN):
             for j in range(countN-i-1):
-                if asc and nums[j] > nums[j+1]:
+                if nums[j] > nums[j+1]:
                     t = nums[j]
                     nums[j] = nums[j+1]
                     nums[j+1] = t
-                elif asc is False and nums[j] < nums[j+1]:
-                    t = nums[j]
-                    nums[j] = nums[j+1]
-                    nums[j+1] = t
+        if asc is False:
+            nums.reverse()
         return nums
 
     def charupaixu(self, nums: [int], asc: bool) -> [int]:
