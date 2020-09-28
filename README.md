@@ -50,6 +50,7 @@
 1. `implementStrstr.py` 28. 实现strStr()
 1. `divideTwoIntegers.py` 29. 两数相除
 1. `nextPermutation.py` 31. 下一个排列
+1. `searchInRotatedSortedArray.py` 33. 搜索旋转排序数组
 1. `findFirstAndLastPositionOfElementInSortedArray.py` 34. 在排序数组中查找元素的第一个和最后一个位置
 1. `searchInsertPosition.py` 35. 搜索插入位置
 1. `validSudoku.py` 36. 有效的数独
@@ -123,6 +124,7 @@
 1. `powerOfTwo.py` 231. 2的幂
 1. `implementQueueUsingStacks.py` 232. 用栈实现队列
 1. `palindromeLinkedList.py` 234. 回文链表
+1. `lowestCommonAncestorOfABinarySearchTree.py` 235. 二叉搜索树的最近公共祖先
 1. `deleteNodeInaLinkedList.py` 237. 删除链表中的节点
 1. `productOfArrayExceptSelf.py` 238. 除自身以外数组的乘积
 1. `searcha2dMatrixIi.py` 240. 搜索二维矩阵 II
