@@ -7,7 +7,7 @@
 1. `handleImage.py` 一些图片的简单处理
 1. `countFileNumber.py` 统计某个文件夹下文件数量（自己酌情修改）
 1. `asyndef.py` asyndef
-1. `checkPyFiles.py` 检查当前目录下py 是否都记录在了 README.md 文件中
+1. `checkPyFiles.py` 检查当前目录下py、swift 是否都记录在了 README.md 文件中
 1. `changeLeeCodeToTitle.py` 用于转换LeeCode 英文标题作为文件名
 1. `orderFiles.py` 排序某个文件夹下文件（自己酌情修改）
 1. `checkfileAddXcode.py` 检查文件是否都添加到 Xcode 中
@@ -44,6 +44,7 @@
 1. `mergeTwoSortedLists.py` 21. 合并两个有序链表
 1. `mergekSortedLists.py` 23. 合并K个排序链表
 1. `swapNodesInPairs.py` 24. 两两交换链表中的节点
+1. `swapNodesInPairs.swift` 24. 两两交换链表中的节点
 1. `reverseNodesInKGroup.py` 25. K 个一组翻转链表
 1. `removeDuplicatesFromSortedArray.py` 26. 删除排序数组中的重复项
 1. `removeElement.py` 27. 移除元素
@@ -66,6 +67,7 @@
 1. `powxN.py` 50. Pow(x, n)
 1. `nQueens.py` 51. N皇后
 1. `nQueensIi.py` 52. N皇后 II
+1. `nQueensIi.swift` 52. N皇后 II
 1. `spiralMatrix.py` 54. 螺旋矩阵
 1. `mergeIntervals.py` 56. 合并区间 
 1. `insertInterval.py` 57. 插入区间
@@ -91,6 +93,7 @@
 1. `binaryTreeLevelOrderTraversalIi.py` 107. 二叉树的层次遍历 II
 1. `flattenBinaryTreeToLinkedList.py` 114. 二叉树展开为链表
 1. `populatingNextRightPointersInEachNode.py` 116. 填充每个节点的下一个右侧节点指针
+1. `populatingNextRightPointersInEachNode.swift` 116. 填充每个节点的下一个右侧节点指针
 1. `populatingNextRightPointersInEachNodeIi.py` 117. 填充每个节点的下一个右侧节点指针 II
 1. `pascalsTriangle.py` 118. 杨辉三角
 1. `pascalsTriangleIi.py` 119. 杨辉三角 II
@@ -229,6 +232,7 @@
 1. `findTheTownJudge.py` 997. 找到小镇的法官
 1. `availableCapturesForRook.py` 999. 车的可用捕获量
 1. `findCommonCharacters.py` 1002. 查找常用字符
+1. `findCommonCharacters.swift` 1002. 查找常用字符
 1. `complementOfBase10Integer.py` 1009. 十进制整数的反码
 1. `pairsOfSongsWithTotalDurationsDivisibleBy60.py` 1010. 总持续时间可被 60 整除的歌曲
 1. `capacityToShipPackagesWithindDays.py` 1011. 在 D 天内送达包裹的能力

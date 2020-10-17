@@ -51,5 +51,9 @@ class Solution:
         return True
 
 
-ret = Solution().totalNQueens(5)
-print(ret)
+s = Solution()
+# for temp in range(1, 1001):
+#     print(temp, s.totalNQueens(temp))
+
+print(s.totalNQueens(8)) # 92
+

@@ -1,6 +1,6 @@
 
 import sys
-engTitle = "lowest-common-ancestor-of-a-binary-search-tree"
+engTitle = "populating-next-right-pointers-in-each-node"
 
 
 tempArr = engTitle.split("-")
