@@ -104,6 +104,7 @@
 1. `linkedListCycle.py` 141. 环形链表
 1. `reorderList.swift` 143. 重排链表
 1. `binaryTreePreorderTraversal.py` 144. 二叉树的前序遍历
+1. `binaryTreePreorderTraversal.swift` 144. 二叉树的前序遍历
 1. `binaryTreePostorderTraversal.py` 145. 二叉树的后序遍历
 1. `lruCache.py` 146. LRU缓存机制
 1. `reverseWordsInAString.py` 151. 翻转字符串里的单词
