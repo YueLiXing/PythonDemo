@@ -84,11 +84,14 @@
 1. `combinations.py` 77. 组合
 1. `removeDuplicatesFromSortedArrayIi.py` 80. 删除排序数组中的重复项 II
 1. `mergeSortedArray.py` 88. 合并两个有序数组
+1. `reverseLinkedListIi.py` 92. 反转链表 II
+1. `reverseLinkedListIi.swift` 92. 反转链表 II
 1. `restoreIpAddresses.py` 93. 复原IP地址
 1. `binaryTreeInorderTraversal.py` 94. 二叉树的中序遍历
 1. `sameTree.py` 100. 相同的树
 1. `symmetricTree.py` 101. 对称二叉树
 1. `binaryTreeLevelOrderTraversal.py` 102. 二叉树的层次遍历
+1. `binaryTreeLevelOrderTraversal.swift` 102. 二叉树的层次遍历
 1. `binaryTreeZigzagLevelOrderTraversal.py` 103. 二叉树的锯齿形层次遍历
 1. `binaryTreeLevelOrderTraversalIi.py` 107. 二叉树的层次遍历 II
 1. `flattenBinaryTreeToLinkedList.py` 114. 二叉树展开为链表
@@ -258,7 +261,6 @@
 todo:
 
 1. `combinationSum.py` 39. 组合总和
-1. `reverseLinkedListIi.py` 92. 反转链表 II
 1. `theSkylineProblem.py` 218. 天际线问题
 1. `trappingRainWaterIi.py` 407. 接雨水 II
 1. `numberOfAtoms.py` 726. 原子的数量

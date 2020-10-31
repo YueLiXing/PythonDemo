@@ -20,37 +20,33 @@ class ListNode(object):
 class Solution(object):
     # 迭代法
     def reverseBetween(self, head: ListNode, m: int, n: int) -> ListNode:
-        """
-        :type head: ListNode
-        :rtype: ListNode
-        """
-        t = None
-        i = 0
-        root = head
-        preNode = None
-        nextNode = None
-        while head != None:
-            buffer = head.next
-            i += 1
-            if m <= i <= n:
-                if t != None:
-                    head.next = t
-                    t = head
-                else:
-                    t = head
-                    t.next = None
-            else:
-                if i+1 == m:
-                    preNode = head
-                if i == n+1:
-                    nextNode = head
-                t = head
-            head = buffer
+        if head is None:
+            return head
+        index = 1
+        pre = None
+        current = head
+        while index < m:
+            pre = current
+            current = current.next
+            index += 1
 
-        if m > 1:
-            return root
+        con = pre
+        tail = current
+        print(tail.val)
+
+        while index <= n:
+            tempN = current.next
+            current.next = pre
+            pre = current
+            current = tempN
+            index += 1
+        if con:
+            con.next = pre
         else:
-            return t
+            head = pre
+        tail.next = current
+        return head
+            
 
 
 
@@ -62,4 +58,6 @@ l.next.next.next = ListNode(4)
 l.next.next.next.next = ListNode(5)
 
 # l.print()
-Solution().reverseBetween(l,2,4).print()
+# Solution().reverseBetween(l,2,4).print()
+# Solution().reverseBetween(l, 2, 4).print()  # 1->4->3->2->5
+Solution().reverseBetween(l, 1, 4).print() #

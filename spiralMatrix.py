@@ -6,19 +6,20 @@ class Solution:
 
         def __str__(self):
             return "Point(x:%d,y:%d)" % (self.x, self.y)
+
     def spiralOrder(self, matrix: [[int]]) -> [int]:
         n = len(matrix)
         if n == 0:
             return []
         m = len(matrix[0])
         ret = []
-        
-        currentPoint = Point(0,0)
-        direction = Point(1,0)
-        lt = Point(0,0)
-        rt = Point(m-1,0)
+
+        currentPoint = Point(0, 0)
+        direction = Point(1, 0)
+        lt = Point(0, 0)
+        rt = Point(m-1, 0)
         lb = Point(0, n-1)
-        rb = Point(m-1,n-1)
+        rb = Point(m-1, n-1)
 
         # print(lt,rt)
         # print(lb,rb)
@@ -27,7 +28,8 @@ class Solution:
         ret.append(matrix[currentPoint.y][currentPoint.x])
         # print("%d %d : %d" % (currentPoint.y, currentPoint.x,matrix[currentPoint.y][currentPoint.x]))
         while True:
-            nextP = Point(currentPoint.x+direction.x,currentPoint.y+direction.y)
+            nextP = Point(currentPoint.x+direction.x,
+                          currentPoint.y+direction.y)
             # print("%d %d %s" % (nextP.y, nextP.x, direction))
             if lt.x <= nextP.x <= rb.x and lt.y <= nextP.y <= rb.y:
                 currentPoint = nextP
@@ -63,6 +65,8 @@ class Solution:
                 if lt.x > rt.x and lt.y > rb.y:
                     break
         return ret
+
+
 l = [
     [1, 2, 3],
     [4, 5, 6],
