@@ -42,6 +42,7 @@
 1. `removeNthNodeFromEndOfList.py` 19. 删除链表的倒数第N个节点
 1. `validParentheses.py` 20. 有效的括号
 1. `mergeTwoSortedLists.py` 21. 合并两个有序链表
+1. `generateParentheses.swift` 22. 括号生成
 1. `mergekSortedLists.py` 23. 合并K个排序链表
 1. `swapNodesInPairs.py` 24. 两两交换链表中的节点
 1. `swapNodesInPairs.swift` 24. 两两交换链表中的节点
@@ -51,12 +52,15 @@
 1. `implementStrstr.py` 28. 实现strStr()
 1. `divideTwoIntegers.py` 29. 两数相除
 1. `nextPermutation.py` 31. 下一个排列
+1. `longestValidParentheses.swift` 32. 最长有效括号
 1. `searchInRotatedSortedArray.py` 33. 搜索旋转排序数组
 1. `findFirstAndLastPositionOfElementInSortedArray.py` 34. 在排序数组中查找元素的第一个和最后一个位置
 1. `searchInsertPosition.py` 35. 搜索插入位置
 1. `validSudoku.py` 36. 有效的数独
 1. `sudokuSolver.py` 37. 解数独
 1. `countAndSay.py` 38. 报数
+1. `combinationSum.py` 39. 组合总和
+1. `combinationSum.swift` 39. 组合总和
 1. `firstMissingPositive.py` 41. 缺失的第一个正数
 1. `trappingRainWater.py` 42. 接雨水
 1. `multiplyStrings.py` 43. 字符串相乘
@@ -71,6 +75,7 @@
 1. `spiralMatrix.py` 54. 螺旋矩阵
 1. `mergeIntervals.py` 56. 合并区间 
 1. `insertInterval.py` 57. 插入区间
+1. `insertInterval.swift` 57. 插入区间
 1. `lengthOfLastWord.py` 58. 最后一个单词的长度
 1. `permutationSequence.py` 60. 第k个排列
 1. `uniquePaths.py` 62. 不同路径
@@ -181,6 +186,7 @@
 1. `canPlaceFlowers.py` 605. 种花问题
 1. `findDuplicateFileInSystem.py` 609. 在系统中查找重复文件
 1. `mergeTwoBinaryTrees.py` 617. 合并二叉树
+1. `mergeTwoBinaryTrees.swift` 617. 合并二叉树
 1. `designCircularQueue.py` 622. 设计循环队列
 1. `swapSalary.txt` 627. 交换工资
 1. `averageOfLevelsInBinaryTree.py` 637. 二叉树的层平均值
@@ -257,10 +263,10 @@
 1. `shunShiZhenDaYinJuZhenLcof.py` 面试题29. 顺时针打印矩阵
 1. `baShuZiFanYiChengZiFuChuanLcof.swift` 面试题46. 把数字翻译成字符串
 1. `qiu12nLcof.py` 面试题64. 求1+2+…+n
+1. `shuDeZiJieGouLcof.swift` 剑指 Offer 26. 树的子结构
 
 todo:
 
-1. `combinationSum.py` 39. 组合总和
 1. `theSkylineProblem.py` 218. 天际线问题
 1. `trappingRainWaterIi.py` 407. 接雨水 II
 1. `numberOfAtoms.py` 726. 原子的数量
