@@ -17,6 +17,7 @@
 1. `reverseLink.py` 单链表翻转
 1. `lookupFileWithType.py` 查找一个文件下下面所有这个类型的文件
 1. `findIndex.py` 查找一个数组中元素的索引
+1. `findAllLocalizedString.py` 查找文件夹下相关的 XMLocalizedString
 
 ### [力扣网站](https://leetcode-cn.com/)
 1. `twosum.py` 1. 两数之和
