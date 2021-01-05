@@ -210,6 +210,7 @@
 1. `subdomainVisitCount.py` 811. 子域名访问计数
 1. `linkedListComponents.py` 817. 链表组件
 1. `goatLatin.py` 824. 山羊拉丁文
+1. `positionsOfLargeGroups.swift` 830. 较大分组的位置
 1. `flippingAnImage.py` 832. 翻转图像
 1. `backspaceStringCompare.swift` 844. 比较含退格的字符串
 1. `middleOfTheLinkedList.py` 876. 链表的中间结点
