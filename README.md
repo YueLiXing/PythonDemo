@@ -161,6 +161,7 @@
 1. `findTheDifference.py` 389. 找不同
 1. `decodeString.py` 394. 字符串解码
 1. `randomPickIndex.py` 398. 随机数索引
+1. `evaluateDivision.swift` 399. 除法求值
 1. `addStrings.py` 415. 字符串相加
 1. `nAryTreeLevelOrderTraversal.py` 429. N叉树的层序遍历
 1. `stringCompression.py` 443. 压缩字符串
