@@ -17,6 +17,7 @@
 1. `reverseLink.py` 单链表翻转
 1. `lookupFileWithType.py` 查找一个文件下下面所有这个类型的文件
 1. `findIndex.py` 查找一个数组中元素的索引
+1. `findAllLocalizedString.py` 查找文件夹下相关的 XMLocalizedString
 
 ### [力扣网站](https://leetcode-cn.com/)
 1. `twosum.py` 1. 两数之和
@@ -209,6 +210,7 @@
 1. `subdomainVisitCount.py` 811. 子域名访问计数
 1. `linkedListComponents.py` 817. 链表组件
 1. `goatLatin.py` 824. 山羊拉丁文
+1. `positionsOfLargeGroups.swift` 830. 较大分组的位置
 1. `flippingAnImage.py` 832. 翻转图像
 1. `backspaceStringCompare.swift` 844. 比较含退格的字符串
 1. `middleOfTheLinkedList.py` 876. 链表的中间结点
