@@ -177,6 +177,7 @@
 1. `detectCapital.py` 520. 检测大写字母
 1. `randomPickWithWeight.py` 528. 按权重随机选择
 1. `reverseStringIi.py` 541. 反转字符串 II
+1. `numberOfProvinces.swift` 547. 省份数量
 1. `reverseWordsInAStringIii.py` 557. 反转字符串中的单词 III
 1. `subarraySumEqualsK.py` 560. 和为K的子数组
 1. `reshapeTheMatrix.py` 566. 重塑矩阵
