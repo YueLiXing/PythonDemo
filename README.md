@@ -123,6 +123,7 @@
 1. `majorityElement.py` 169. 多数元素
 1. `largestNumber.py` 179. 最大数
 1. `duplicateEmails.txt` 182. 查找重复的电子邮箱
+1. `rotateArray.swift` 189. 旋转数组
 1. `houseRobber.py` 198. 打家劫舍
 1. `binaryTreeRightSideView.py` 199. 二叉树的右视图
 1. `happyNumber.py` 202. 快乐数
