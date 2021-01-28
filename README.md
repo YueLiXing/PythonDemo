@@ -204,6 +204,7 @@
 1. `binarySearch.py` 704. 二分查找
 1. `toLowerCase.py` 709. 转换成小写字母
 1. `randomPickWithBlacklist.py` 710. 黑名单中的随机数
+1. `findPivotIndex.swift` 724. 寻找数组的中心索引 
 1. `selfDividingNumbers.py` 728. 自除数
 1. `asteroidCollision.py` 735. 行星碰撞
 1. `dailyTemperatures.py` 739. 每日温度
