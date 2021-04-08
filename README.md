@@ -118,6 +118,7 @@
 1. `lruCache.py` 146. LRU缓存机制
 1. `reverseWordsInAString.py` 151. 翻转字符串里的单词
 1. `findMinimumInRotatedSortedArray.py` 153. 寻找旋转排序数组中的最小值
+1. `findMinimumInRotatedSortedArray.swift` 153. 寻找旋转排序数组中的最小值
 1. `findMinimumInRotatedSortedArrayIi.py` 154. 寻找旋转排序数组中的最小值 II
 1. `minStack.py` 155. 最小栈
 1. `majorityElement.py` 169. 多数元素
@@ -248,6 +249,7 @@
 1. `verticalOrderTraversalOfaBinaryTree.py` 987. 二叉树的垂序遍历
 1. `addToArrayFormOfInteger.py` 989. 数组形式的整数加法
 1. `brokenCalculator.py` 991. 坏了的计算器
+1. `subarraysWithKDifferentIntegers.swift` 992. K 个不同整数的子数组
 1. `findTheTownJudge.py` 997. 找到小镇的法官
 1. `availableCapturesForRook.py` 999. 车的可用捕获量
 1. `findCommonCharacters.py` 1002. 查找常用字符

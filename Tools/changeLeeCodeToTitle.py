@@ -1,6 +1,6 @@
 
 import sys
-engTitle = "positions-of-large-groups"
+engTitle = "subarrays-with-k-different-integers"
 
 
 tempArr = engTitle.split("-")
