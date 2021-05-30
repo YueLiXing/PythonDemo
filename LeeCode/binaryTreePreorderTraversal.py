@@ -27,12 +27,28 @@ class Solution:
 
         return ret
 
+    def preorderTraversal2(self, root: TreeNode) -> [int]:
+        result = []
+        if root:
+            tempArr = []
+            tempArr.append(root)
+            while len(tempArr) > 0:
+                top = tempArr.pop()
+                result.append(top.val)
+                if top.right:
+                    tempArr.append(top.right)
+                if top.left:
+                    tempArr.append(top.left)
+        return result
 
 root = TreeNode(1)
-root.right = TreeNode(2)
-root.right.left = TreeNode(3)
+root.left = TreeNode(2)
+root.right = TreeNode(3)
+root.left.left = TreeNode(4)
+root.left.right = TreeNode(5)
 
 print(Solution().preorderTraversal(root))
+print(Solution().preorderTraversal2(root))
 
 
 # test = [1,2,3,4,5]

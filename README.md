@@ -17,6 +17,7 @@
 1. `reverseLink.py` 单链表翻转
 1. `lookupFileWithType.py` 查找一个文件下下面所有这个类型的文件
 1. `findIndex.py` 查找一个数组中元素的索引
+1. `findAllLocalizedString.py` 查找文件夹下相关的 XMLocalizedString
 
 ### [力扣网站](https://leetcode-cn.com/)
 1. `twosum.py` 1. 两数之和
@@ -117,11 +118,13 @@
 1. `lruCache.py` 146. LRU缓存机制
 1. `reverseWordsInAString.py` 151. 翻转字符串里的单词
 1. `findMinimumInRotatedSortedArray.py` 153. 寻找旋转排序数组中的最小值
+1. `findMinimumInRotatedSortedArray.swift` 153. 寻找旋转排序数组中的最小值
 1. `findMinimumInRotatedSortedArrayIi.py` 154. 寻找旋转排序数组中的最小值 II
 1. `minStack.py` 155. 最小栈
 1. `majorityElement.py` 169. 多数元素
 1. `largestNumber.py` 179. 最大数
 1. `duplicateEmails.txt` 182. 查找重复的电子邮箱
+1. `rotateArray.swift` 189. 旋转数组
 1. `houseRobber.py` 198. 打家劫舍
 1. `binaryTreeRightSideView.py` 199. 二叉树的右视图
 1. `happyNumber.py` 202. 快乐数
@@ -160,11 +163,13 @@
 1. `findTheDifference.py` 389. 找不同
 1. `decodeString.py` 394. 字符串解码
 1. `randomPickIndex.py` 398. 随机数索引
+1. `evaluateDivision.swift` 399. 除法求值
 1. `addStrings.py` 415. 字符串相加
 1. `nAryTreeLevelOrderTraversal.py` 429. N叉树的层序遍历
 1. `stringCompression.py` 443. 压缩字符串
 1. `lfuCache.py` 460. LFU缓存
 1. `generateRandomPointInACircle.py` 478. 在圆内随机生成点
+1. `slidingWindowMedian.swift` 480. 滑动窗口中位数
 1. `maxConsecutiveOnes.py` 485. 最大连续1的个数
 1. `constructTheRectangle.py` 492. 构造矩形
 1. `teemoAttacking.py` 495. 提莫攻击
@@ -175,6 +180,7 @@
 1. `detectCapital.py` 520. 检测大写字母
 1. `randomPickWithWeight.py` 528. 按权重随机选择
 1. `reverseStringIi.py` 541. 反转字符串 II
+1. `numberOfProvinces.swift` 547. 省份数量
 1. `reverseWordsInAStringIii.py` 557. 反转字符串中的单词 III
 1. `subarraySumEqualsK.py` 560. 和为K的子数组
 1. `reshapeTheMatrix.py` 566. 重塑矩阵
@@ -200,6 +206,7 @@
 1. `binarySearch.py` 704. 二分查找
 1. `toLowerCase.py` 709. 转换成小写字母
 1. `randomPickWithBlacklist.py` 710. 黑名单中的随机数
+1. `findPivotIndex.swift` 724. 寻找数组的中心索引 
 1. `selfDividingNumbers.py` 728. 自除数
 1. `asteroidCollision.py` 735. 行星碰撞
 1. `dailyTemperatures.py` 739. 每日温度
@@ -209,6 +216,7 @@
 1. `subdomainVisitCount.py` 811. 子域名访问计数
 1. `linkedListComponents.py` 817. 链表组件
 1. `goatLatin.py` 824. 山羊拉丁文
+1. `positionsOfLargeGroups.swift` 830. 较大分组的位置
 1. `flippingAnImage.py` 832. 翻转图像
 1. `backspaceStringCompare.swift` 844. 比较含退格的字符串
 1. `middleOfTheLinkedList.py` 876. 链表的中间结点
@@ -241,6 +249,7 @@
 1. `verticalOrderTraversalOfaBinaryTree.py` 987. 二叉树的垂序遍历
 1. `addToArrayFormOfInteger.py` 989. 数组形式的整数加法
 1. `brokenCalculator.py` 991. 坏了的计算器
+1. `subarraysWithKDifferentIntegers.swift` 992. K 个不同整数的子数组
 1. `findTheTownJudge.py` 997. 找到小镇的法官
 1. `availableCapturesForRook.py` 999. 车的可用捕获量
 1. `findCommonCharacters.py` 1002. 查找常用字符
