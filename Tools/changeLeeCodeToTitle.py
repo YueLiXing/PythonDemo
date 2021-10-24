@@ -1,6 +1,6 @@
 
 import sys
-engTitle = "check-if-word-equals-summation-of-two-words"
+engTitle = "parallel-courses-iii"
 
 
 tempArr = engTitle.split("-")
@@ -13,5 +13,3 @@ for temp in tempArr:
 
 print("".join(resultArr)+".py")
 print("".join(resultArr)+".swift")
-
-

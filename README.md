@@ -273,6 +273,8 @@
 1. `baShuZiFanYiChengZiFuChuanLcof.swift` 面试题46. 把数字翻译成字符串
 1. `qiu12nLcof.py` 面试题64. 求1+2+…+n
 1. `shuDeZiJieGouLcof.swift` 剑指 Offer 26. 树的子结构
+1. `numberOfValidWordsInASentence.py` 5906. 句子中的有效单词数
+1. `nextGreaterNumericallyBalancedNumber.py` 5907. 下一个更大的数值平衡数
 
 todo:
 
@@ -286,6 +288,7 @@ todo:
 1. `onlineMajorityElementInSubarray.py` 1157. 子数组中占绝大多数的元素
 1. `wordLadderIi.py` 126. 单词接龙 II
 1. `superEggDrop.py` 887. 鸡蛋掉落
+1. `parallelCoursesIii.py` 5909. 并行课程 III
 
 #### 每日一题
 1. `rottingOranges.py` 994. 腐烂的橘子
